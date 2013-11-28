@@ -1,4 +1,8 @@
+import sys
 from selenium import webdriver
+
+name = sys.argv[1]
+word = sys.argv[2]
 
 baseurl = 'https://www.easychair.org/account/signin.cgi?conf=salt24'
 submissionsurl = ('https://www.easychair.org/conferences/'
@@ -8,8 +12,8 @@ submissionsurl = ('https://www.easychair.org/conferences/'
 driver = webdriver.Chrome()
 driver.get(baseurl)
 
-driver.find_element_by_name("name").send_keys("dbumford")
-driver.find_element_by_name("password").send_keys("number11")
+driver.find_element_by_name("name").send_keys(name)
+driver.find_element_by_name("password").send_keys(word)
 driver.find_element_by_name("Sign in").click()
 driver.get(submissionsurl)
 

@@ -1,8 +1,16 @@
+# -*- coding: utf-8 -*-
 import sys
+import codecs
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 
 name = sys.argv[1]
 word = sys.argv[2]
+
+log = codecs.open('log', 'w', encoding='utf-8')
+subs = codecs.open('subs.csv', 'w', encoding='utf-8')
 
 baseurl = 'https://www.easychair.org/account/signin.cgi?conf=salt24'
 submissionsurl = ('https://www.easychair.org/conferences/'
@@ -19,34 +27,79 @@ driver.get(submissionsurl)
 
 submissions = []
 
-for i in range(1, 14):
-    tablepath = "//tr[@id='row" + str(i) + "1']"
-    authorpath = tablepath + "/td[2]"
-    titlepath = "//a[@name='" + str(i) + "']"
-    infopath = tablepath + "/td[4]/a[1]"
+try:
+    for i in [x for x in range(3, 250) if x != 39 and x != 185 and x != 232]:
+        if i < 39:
+            row = i - 2
+        elif i < 185:
+            row = i - 3
+        elif i < 232:
+            row = i - 4
+        else:
+            row = i - 5
+        tablepath = "//tr[@id='row" + str(row) + "1']"
+        titlepath = "//a[@name='" + str(i) + "']"
+        infopath = tablepath + "/td[4]/a[1]"
 
-    author = driver.find_element_by_xpath(authorpath)
-    actualauthors = author.text.split(" and ")
-    # take the first five authors (add blanks if needed)
-    authors = (actualauthors + [""] * 10)[:5]
-    title = driver.find_element_by_xpath(titlepath)
-    submission = (title.text, authors)
-    
-    infolink = driver.find_element_by_xpath(infopath)
-    infolink.click()
-    actualinsts = []
-    for i in range(len(actualauthors)):
-        row = str(i + 3)
-        instpath = ("//div[@class='ct_tbl'][2]//tr[" + row + "]/td[5]")
-        inst = driver.find_element_by_xpath(instpath)
-        actualinsts += [inst.text]
-    institutions = (actualinsts + [""] * 10)[:5]
-    submission += (institutions,)
-    submissions += [submission]
-    driver.back()
+        log.write("tablepath: " + tablepath + "\n" +
+                  "titlepath: " + titlepath + "\n" +
+                  "infopath: " + infopath + "\n") 
 
-print submissions
-pfs = (u'{},' * 10)[:-1]
-print u'\n'.join(pfs.format(title, *[x for t in zip(authors, institutions) for
-                                     x in t])
-                 for (title, authors, institutions) in submissions)
+        try:
+            authorpath = tablepath + "/td[2]"
+            log.write("authorpath: " + authorpath + "\n")
+            author = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.XPATH, authorpath))
+            ).text
+        except:
+            try:
+                authorpath = tablepath + "/td[2]/span[1]"
+                log.write("authorpath: " + authorpath + "\n")
+                author = WebDriverWait(driver, 5).until(
+                    EC.presence_of_element_located((By.XPATH, authorpath))
+                ).text
+            except:
+                author = "FIND MEEEEE"
+
+        actualauthors = reduce(lambda x, y: x + y,
+                               [x.split(" and ") for x in author.split(", ")])
+        # take the first five authors (add blanks if needed)
+        authors = (actualauthors + [u""] * 10)[:5]
+        title = driver.find_element_by_xpath(titlepath).text
+
+        log.write(u"authors: " + u",".join(actualauthors) + "\n"
+                  u"title: " + title + "\n")
+
+        submission = (title, authors)
+        
+        infolink = driver.find_element_by_xpath(infopath)
+        infolink.click()
+        actualinsts = []
+        for authindex in range(len(actualauthors)):
+            instrow = str(authindex + 3)
+            instpath = ("//div[@class='ct_tbl'][2]//tr[" + instrow + "]/td[5]")
+
+            log.write("instpath: " + instpath + "\n")
+
+            inst = driver.find_element_by_xpath(instpath).text
+            actualinsts += [inst]
+        institutions = (actualinsts + [u""] * 10)[:5]
+
+        log.write(u"insts: " + u",".join(actualinsts) + "\n\n")
+
+        submission += (institutions,)
+        submissions += [submission]
+        driver.back()
+
+finally:
+    log.close()
+    driver.quit()
+    pfs = (u'{},' * 10)[:-1]
+    subs.write(
+        u'\n'.join(
+            pfs.format(title, *[x for t in zip(authors, institutions)
+                                for x in t])
+            for (title, authors, institutions) in submissions
+        )
+    )
+    subs.close()

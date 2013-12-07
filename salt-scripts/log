@@ -4,6 +4,8 @@ infopath: //tr[@id='row11']/td[4]/a[1]
 authorpath: //tr[@id='row11']/td[2]
 authors: Idan Landau
 title: Direct Variable Binding in Obligatory Control
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: control, de se, agreement, attitude predicates, feature transmission
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Ben Gurion University
 
@@ -13,6 +15,8 @@ infopath: //tr[@id='row21']/td[4]/a[1]
 authorpath: //tr[@id='row21']/td[2]
 authors: Kevin Bookhamer
 title: THE VARIABLE GRAMMAR OF THE SPANISH SUBJUNCTIVE IN SECOND-GENERATION BILINGUALS IN NEW YORK CITY
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Sociolinguistics, Spanish in NYC, Bilingualism, Subjunctive, Simplification, Spanish in contact, Spanish Mood
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Princeton University
 
@@ -22,6 +26,8 @@ infopath: //tr[@id='row31']/td[4]/a[1]
 authorpath: //tr[@id='row31']/td[2]
 authors: Tillmann Pross
 title: Causality beyond unaccusativity: Dispositions at the syntax-semantics interface
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Split vP, Unaccusativity, Dispositions, German, Syntax-Semantics Interface, Voice, Causality, Thematic Roles
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Stuttgart
 
@@ -31,6 +37,8 @@ infopath: //tr[@id='row41']/td[4]/a[1]
 authorpath: //tr[@id='row41']/td[2]
 authors: Jacopo Torregrossa
 title: Putting 'contrast' on the Table
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: contrast, focus, information structure, inquisitive semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Verona
 
@@ -40,6 +48,8 @@ infopath: //tr[@id='row51']/td[4]/a[1]
 authorpath: //tr[@id='row51']/td[2]
 authors: Lisa Reed,Marc Authier
 title: On implicit arguments and antecedent determination in control clauses
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: control, implicit arguments, passives, Visser's Generalization, Germanic
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Penn State University,The Pennsylvania State University
@@ -50,6 +60,8 @@ infopath: //tr[@id='row61']/td[4]/a[1]
 authorpath: //tr[@id='row61']/td[2]
 authors: Toshikazu Ikuta
 title: Lambda Calculi of both 'and' and 'both'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conjunction, formal semantics, lambda calculus
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Mississippi
 
@@ -59,6 +71,8 @@ infopath: //tr[@id='row71']/td[4]/a[1]
 authorpath: //tr[@id='row71']/td[2]
 authors: Anarkul Salkynbay
 title: Language and society: the role of communication and the development of word semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Social function, mean, communication, Turkic culture, social changes
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Kazakh National University Al Farabi
 
@@ -68,6 +82,8 @@ infopath: //tr[@id='row81']/td[4]/a[1]
 authorpath: //tr[@id='row81']/td[2]
 authors: Robert van Rooij
 title: Only Global Implicatures? Opening a new factual line of defence
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Quantity implicatures, facts, Embedded implictures, Hurford's constraint
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Amsterdam
 
@@ -77,6 +93,8 @@ infopath: //tr[@id='row91']/td[4]/a[1]
 authorpath: //tr[@id='row91']/td[2]
 authors: Thomas Grano
 title: Why you can’t always try what you want: Thematic Uniqueness and the crosslinguistic distribution of overt embedded subjects
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: control, propositional attitudes, thematic uniqueness, coercion, causatives
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Maryland
 
@@ -86,6 +104,8 @@ infopath: //tr[@id='row101']/td[4]/a[1]
 authorpath: //tr[@id='row101']/td[2]
 authors: Gillian Ramchand
 title: Stativity and `Present Tense´ Epistemics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modals, tense, states, epistemics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Tromsø/CASTL
 
@@ -95,6 +115,8 @@ infopath: //tr[@id='row111']/td[4]/a[1]
 authorpath: //tr[@id='row111']/td[2]
 authors: Valentina Apresjan
 title: Control and Negation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Russian causatives, control, presupposition, assertion, negation scope
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Higher School of Economics, Faculty of Philology
 
@@ -104,6 +126,8 @@ infopath: //tr[@id='row121']/td[4]/a[1]
 authorpath: //tr[@id='row121']/td[2]
 authors: Tohru Seraku
 title: Partial Case-marking in Japanese Sluicing: A Dynamic Syntax Account
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: sluicing, case-marking, Japanese, Dynamic Syntax, semantic tree growth
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Oxford
 
@@ -113,6 +137,8 @@ infopath: //tr[@id='row131']/td[4]/a[1]
 authorpath: //tr[@id='row131']/td[2]
 authors: Anne Mucha
 title: Analyzing Graded Tense in Medumba (Grassfields Bantu)
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Temporal categories, Graded Tense, Medumba, Grassfields Bantu
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universität Potsdam
 
@@ -122,6 +148,8 @@ infopath: //tr[@id='row141']/td[4]/a[1]
 authorpath: //tr[@id='row141']/td[2]
 authors: Eleni Staraki
 title: Underquantified Imperatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: imperatives, quantification, modality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -131,6 +159,8 @@ infopath: //tr[@id='row151']/td[4]/a[1]
 authorpath: //tr[@id='row151']/td[2]
 authors: Konstantin Sachs
 title: Hindi Multi-Head Correlatives - A More Parsimonious Approach
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Hindi, Correlatives, Degrees
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universität Tübingen
 
@@ -140,6 +170,8 @@ infopath: //tr[@id='row161']/td[4]/a[1]
 authorpath: //tr[@id='row161']/td[2]
 authors: Daniel Lassiter
 title: The weakness of must: In defense of a Mantra
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: epistemic modality, evidentiality, probabilistic semantics, must
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Department of Linguistics, Stanford University
 
@@ -149,6 +181,8 @@ infopath: //tr[@id='row171']/td[4]/a[1]
 authorpath: //tr[@id='row171']/td[2]
 authors: Gregory Kobele
 title: Is Binding Grammar? Direct compositionality, Minimalism, and Inverse Linking
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Direct Compositionality, Pronouns, Minimalist Grammars, Inverse linking
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -158,6 +192,8 @@ infopath: //tr[@id='row181']/td[4]/a[1]
 authorpath: //tr[@id='row181']/td[2]
 authors: Lyn Tieu,Cory Bill,Jacopo Romoli,Stephen Crain
 title: Plurality inferences are scalar implicatures: Evidence from acquisition
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Plurality inferences, Plurals, Scalar implicatures, Acquisition, Experimental semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -170,6 +206,8 @@ infopath: //tr[@id='row191']/td[4]/a[1]
 authorpath: //tr[@id='row191']/td[2]
 authors: Gianluca Giorgolo,Ash Asudeh
 title: Perspective Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: intensionality, referring expressions, opacity, perspectives / mental attitudes, category theory
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Oxford,University of Oxford & Carleton University
@@ -180,6 +218,8 @@ infopath: //tr[@id='row201']/td[4]/a[1]
 authorpath: //tr[@id='row201']/td[2]
 authors: Harris Constantinou
 title: The semantics of Intensifiers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Intensifiers, Centrality, Semantics, Adverbs, Information Structure
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University College London
 
@@ -189,6 +229,8 @@ infopath: //tr[@id='row211']/td[4]/a[1]
 authorpath: //tr[@id='row211']/td[2]
 authors: Aynat Rubinstein,Elena Herburger
 title: Is 'more possible' more possible in German?
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modality, gradability, comparatives, German
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Hebrew University of Jerusalem,Georgetown University
@@ -199,6 +241,8 @@ infopath: //tr[@id='row221']/td[4]/a[1]
 authorpath: //tr[@id='row221']/td[2]
 authors: Zhiguo Xie
 title: The progressive is a modal: Evidence from indefinite wh licensing in Mandarin Chinese
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Progressive, Polarity, Modality, Non-veridicality, Mandarin Chinese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: The Ohio State University
 
@@ -208,6 +252,8 @@ infopath: //tr[@id='row231']/td[4]/a[1]
 authorpath: //tr[@id='row231']/td[2]
 authors: Cara Digirolamo
 title: beki and hoo-ga ii: Japanese Priority Modals
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modals, japanese, politeness, deontic, priority
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Cornell University
 
@@ -217,6 +263,8 @@ infopath: //tr[@id='row241']/td[4]/a[1]
 authorpath: //tr[@id='row241']/td[2]
 authors: Koji Shimamura
 title: MAKE IT VISIBLE IN CASE! – A FINE-GRAINED SEMANTICS (AND SYNTAX) OF PP
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: event semantics, Case licensing, Japanese/English
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Connecticut
 
@@ -226,6 +274,8 @@ infopath: //tr[@id='row251']/td[4]/a[1]
 authorpath: //tr[@id='row251']/td[2]
 authors: Matthijs Westera
 title: Exhaustivity is a conversational implicature
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conversational implicature, exhaustivity, epistemic step
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Amsterdam
 
@@ -235,6 +285,8 @@ infopath: //tr[@id='row261']/td[4]/a[1]
 authorpath: //tr[@id='row261']/td[2]
 authors: Mingming Liu
 title: Non-exclusive ‘only’ in Mandarin Chinese
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Mandarin Chinese, focus adverbs, exclusive, scalar particle, contrastive topic
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Rutgers University
 
@@ -244,6 +296,8 @@ infopath: //tr[@id='row271']/td[4]/a[1]
 authorpath: //tr[@id='row271']/td[2]
 authors: I-Ta Chris Hsieh
 title: On the Evidential Restriction of Subtrigging
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: evidentials, modals, polarity sensitive item, exhaustification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: National Tsing Hua University, Taiwan
 
@@ -253,6 +307,8 @@ infopath: //tr[@id='row281']/td[4]/a[1]
 authorpath: //tr[@id='row281']/td[2]
 authors: Carmen Dobrovie-Sorin
 title: Plural quantification and the homogeneity constraint
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: plural quantification, mass quantification, homogeneity constraint
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CNRS-LLF Université Paris 7
 
@@ -262,6 +318,8 @@ infopath: //tr[@id='row291']/td[4]/a[1]
 authorpath: //tr[@id='row291']/td[2]
 authors: Edgar Onea,Markus Steinbach
 title: What Sign Language Tells about the Semantics of Gender. A Novel DRT Analysis.
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: DRT, Grammatical Gender, Anaphora Resolution, Sign Language
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Göttingen,university of Göttingen
@@ -272,6 +330,8 @@ infopath: //tr[@id='row301']/td[4]/a[1]
 authorpath: //tr[@id='row301']/td[2]
 authors: Ken-Ichiro Kamachi
 title: A Parallel between Aspect and (Ir)realis
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: aspect, realis/irrealis, evidentials, change-of-state, first hand knowledge, second hand information, inference
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Shigakukan University
 
@@ -281,6 +341,8 @@ infopath: //tr[@id='row311']/td[4]/a[1]
 authorpath: //tr[@id='row311']/td[2]
 authors: Bhamati Dash
 title: 'Can' in Odia
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: can, modal, Odia
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: English and Foreign Languages University
 
@@ -290,6 +352,8 @@ infopath: //tr[@id='row321']/td[4]/a[1]
 authorpath: //tr[@id='row321']/td[2]
 authors: Justyna Grudzinska,Marek Zawadowski
 title: Combining generalized quantifiers with dependent types - a new approach to unbound anaphora
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: dependent type, generalized quantifier, unbound anaphora
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Warsaw, Insitute of Philosophy,University of Warsaw, Institute of Mathematics
@@ -300,6 +364,8 @@ infopath: //tr[@id='row331']/td[4]/a[1]
 authorpath: //tr[@id='row331']/td[2]
 authors: Guillaume Thomas
 title: Additive particles and directed scale segments
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: additive particles, comparatives, directed scale segments
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Heinrich Heine University
 
@@ -309,6 +375,8 @@ infopath: //tr[@id='row341']/td[4]/a[1]
 authorpath: //tr[@id='row341']/td[2]
 authors: Robert Grimm,Choonkyu Lee,Eva Poortman,Yoad Winter
 title: Evidence for non-existential readings of locative indefinites
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: locative, indefinite, property, eigenspace, non-existential
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -321,6 +389,8 @@ infopath: //tr[@id='row351']/td[4]/a[1]
 authorpath: //tr[@id='row351']/td[2]
 authors: David Rubio Vallejo
 title: Spanish "haber" as counterfactual trigger
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactuality, Gricean Conventional Implicature, Possibility modal, Spanish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Delaware
 
@@ -330,6 +400,8 @@ infopath: //tr[@id='row361']/td[4]/a[1]
 authorpath: //tr[@id='row361']/td[2]
 authors: Sascha Alexeyenko
 title: Gerunds as Source of Event in Adjectival Manner Modification
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: manner adjectives, substitution failure, -er nominals, bracketing paradox, defective gerunds
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Institute of Cognitive Science, University of Osnabrück
 
@@ -339,6 +411,8 @@ infopath: //tr[@id='row371']/td[4]/a[1]
 authorpath: //tr[@id='row371']/td[2]
 authors: Eva Poortman
 title: Between Boolean 'and' and Non-Boolean 'and': A Vagueness Resolution Principle for Plural Predication
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: plural predication, plurality, conjunction, typicality effects, vagueness
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Utrecht University
 
@@ -348,6 +422,8 @@ infopath: //tr[@id='row381']/td[4]/a[1]
 authorpath: //tr[@id='row381']/td[2]
 authors: Hedde Zeijlstra
 title: Self-interveners: the case of universal quantifier PPIs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: universal quantifiers, PPI, exhaustification, modals, negation
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Göttingen
 
@@ -357,6 +433,8 @@ infopath: //tr[@id='row391']/td[4]/a[1]
 authorpath: //tr[@id='row391']/td[2]
 authors: Alex Silk
 title: Discourse Contextualism: Or, How I Learned to Stop Worrying and Love an Ordinary, Boring Static Contextualist Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: contextualism, context-sensitivity, epistemic modals, disagreement, attitude reports
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Birmingham
 
@@ -366,6 +444,8 @@ infopath: //tr[@id='row401']/td[4]/a[1]
 authorpath: //tr[@id='row401']/td[2]
 authors: Nadine Bade,Sonja Tiemann
 title: Discourse Managing Presupposition Triggers and At-Issueness
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Presuppositions, At-Issueness, Experimental Semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Tuebingen,University of Tuebingen
@@ -376,6 +456,8 @@ infopath: //tr[@id='row411']/td[4]/a[1]
 authorpath: //tr[@id='row411']/td[2]
 authors: Oriana Kilbourn-Ceron
 title: Almost: scope and covert exhaustification
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: semantics, approximatives, exhaustification, scope relations
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: McGill University
 
@@ -385,6 +467,8 @@ infopath: //tr[@id='row421']/td[4]/a[1]
 authorpath: //tr[@id='row421']/td[2]
 authors: E. Matthew Husband
 title: Locality and Complement Coercion
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: complement coercion, compositionality, incorporation, locality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Oxford
 
@@ -394,6 +478,8 @@ infopath: //tr[@id='row431']/td[4]/a[1]
 authorpath: //tr[@id='row431']/td[2]
 authors: Adrian Brasoveanu,Matthijs Westera
 title: Ignorance in context: The interaction of modified numerals and QUDs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modified numeral, Question under discussion, Experiment
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of California, Santa Cruz,University of Amsterdam
@@ -404,6 +490,8 @@ infopath: //tr[@id='row441']/td[4]/a[1]
 authorpath: //tr[@id='row441']/td[2]
 authors: Alda Mari
 title: Evidential and temporal constraints on conflicting multidimensional modals
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: evidentiality, temporality, multidimensional modality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Institut Jean Nicod / CNRS / ENS / EHESS
 
@@ -413,6 +501,8 @@ infopath: //tr[@id='row451']/td[4]/a[1]
 authorpath: //tr[@id='row451']/td[2]
 authors: Kevin Lande
 title: Replacing Properties: An Analysis of Nonspecific De Re
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Attitude reports, Nonspecific de re, Cognitive context
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of California, Los Angeles
 
@@ -422,6 +512,8 @@ infopath: //tr[@id='row461']/td[4]/a[1]
 authorpath: //tr[@id='row461']/td[2]
 authors: Carl Pollard,Eric Snyder
 title: A Defense of the Lower-Bounded Analysis of Number Determiners
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: number determiners, how many-questions, the average N
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Ohio State University,Ohio State University
@@ -432,6 +524,8 @@ infopath: //tr[@id='row471']/td[4]/a[1]
 authorpath: //tr[@id='row471']/td[2]
 authors: Pritty Patel-Grosz,Sigrid Beck
 title: Different Again
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: semantics of again, counterdirectional again, restitutive again, structural ambiguity, lexical ambiguity
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Eberhard Karls University of Tuebingen,Eberhard Karls University of Tuebingen
@@ -442,6 +536,8 @@ infopath: //tr[@id='row481']/td[4]/a[1]
 authorpath: //tr[@id='row481']/td[2]
 authors: Maxime Amblard
 title: Dynamic Continuation Semantics restores Semantics Calculus of Categorial Minimalist Grammars
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: syntax-semantics interface, Categorial Minimalist Grammars, Dynamic Continuation Semantics, lambda-calculus
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Loria, Inria
 
@@ -451,6 +547,8 @@ infopath: //tr[@id='row491']/td[4]/a[1]
 authorpath: //tr[@id='row491']/td[2]
 authors: Paul Dekker
 title: Rehabilitating "Only"
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Square of opposition, Generalized quantifiers, Topical restriction, Focal restriction
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: ILLC/Department of Philosophy, Universiteit van Amsterdam
 
@@ -460,6 +558,8 @@ infopath: //tr[@id='row501']/td[4]/a[1]
 authorpath: //tr[@id='row501']/td[2]
 authors: Isabelle Charnavel
 title: How French sheds new light on scalar particles
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: scalar particle, even, only, French
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard
 
@@ -469,6 +569,8 @@ infopath: //tr[@id='row511']/td[4]/a[1]
 authorpath: //tr[@id='row511']/td[2]
 authors: Elena Guerzoni,Yael Sharvit
 title: NPIs in Questions, Disjunction and Ellipsis
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: questions, alternative questions, negation, exhaustivity in questions, negative polarity
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Southern California,UCLA
@@ -479,6 +581,8 @@ infopath: //tr[@id='row521']/td[4]/a[1]
 authorpath: //tr[@id='row521']/td[2]
 authors: Saurov Syed,Elena Guerzoni
 title: M-possessives in terms of a generic relation: A view from Bangla
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: M-possessives, genericity, Bangla, semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: USC,University of Southern California
@@ -489,6 +593,8 @@ infopath: //tr[@id='row531']/td[4]/a[1]
 authorpath: //tr[@id='row531']/td[2]
 authors: Kristen Greer
 title: An extensional account of vague quantifiers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Proportional quantification, Extensionality, Scalar predicates
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of California, Davis
 
@@ -498,6 +604,8 @@ infopath: //tr[@id='row541']/td[4]/a[1]
 authorpath: //tr[@id='row541']/td[2]
 authors: Benjamin Spector,Yasutada Sudo
 title: Presupposed Ignorance
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Presupposition, Scalar implicature, Ignorance
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Institut Jean Nicod (CNRS-ENS-EHESS),University College London
@@ -508,6 +616,8 @@ infopath: //tr[@id='row551']/td[4]/a[1]
 authorpath: //tr[@id='row551']/td[2]
 authors: Chris Kennedy
 title: Predicates and Formulas: Evidence from Ellipsis
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: binding, ellipsis, antecedent-contained deletion, variables, assignment functions
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -517,6 +627,8 @@ infopath: //tr[@id='row561']/td[4]/a[1]
 authorpath: //tr[@id='row561']/td[2]
 authors: Robert Pasternak
 title: Counterfactuals and Salience
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactuals, Counterpossibles, Possible World Semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Stony Brook University
 
@@ -526,6 +638,8 @@ infopath: //tr[@id='row571']/td[4]/a[1]
 authorpath: //tr[@id='row571']/td[2]
 authors: Aruna Devi Ponnammal
 title: Rhetorical Structure Theory in Text Interpretation and Creation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Rhetorical relations, Constructionist theory, propositional inferences, linguistic markers
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Institute of Distance Education,University of Madras
 
@@ -535,6 +649,8 @@ infopath: //tr[@id='row581']/td[4]/a[1]
 authorpath: //tr[@id='row581']/td[2]
 authors: Ana Muller
 title: MODES OF PLURALITY: CUMULATIVITY, PLURACTIONALITY AND DISTRIBUTIVITY IN KARITIANA
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: verbal number, plurality, distributivity, Karitiana, Tupi language
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of São Paulo
 
@@ -544,6 +660,8 @@ infopath: //tr[@id='row591']/td[4]/a[1]
 authorpath: //tr[@id='row591']/td[2]
 authors: Alfredo Garcia-Pardo
 title: The aspectual composition of adjectival passives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Aspect, Events, Adjectival passives, German, Spanish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Southern California
 
@@ -553,6 +671,8 @@ infopath: //tr[@id='row601']/td[4]/a[1]
 authorpath: //tr[@id='row601']/td[2]
 authors: Orin Percus,Yael Sharvit
 title: Copular asymmetries in belief reports
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: copula, identity sentences, attitude reports
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Nantes / LLING EA 3827,UCLA
@@ -563,6 +683,8 @@ infopath: //tr[@id='row611']/td[4]/a[1]
 authorpath: //tr[@id='row611']/td[2]
 authors: Zeljko Boskovic,I-Ta Chris Hsieh
 title: On the semantics of the NP-internal word order
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: NP, Demonstratives, Adjectives, Possessors, Chinese, Serbo-Croatian
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Connecticut,Tsinghua University
@@ -573,6 +695,8 @@ infopath: //tr[@id='row621']/td[4]/a[1]
 authorpath: //tr[@id='row621']/td[2]
 authors: Patrick Grosz
 title: Corporate They as a Novel Definite
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: arbitrary pronoun, corporate they, novel definite, German
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Tuebingen
 
@@ -582,6 +706,8 @@ infopath: //tr[@id='row631']/td[4]/a[1]
 authorpath: //tr[@id='row631']/td[2]
 authors: Curt Anderson
 title: Approximating numerals using some
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: alternative semantics, approximation, number, modification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Michigan State University
 
@@ -591,6 +717,8 @@ infopath: //tr[@id='row641']/td[4]/a[1]
 authorpath: //tr[@id='row641']/td[2]
 authors: Kriszta Szendroi,Malte Zimmermann
 title: It's not individuals that are exhausted: An event-based analysis of Hungarian focus
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus, Hungarian, exhaustivity, event-semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: UCL,Potsdam University
@@ -601,6 +729,8 @@ infopath: //tr[@id='row651']/td[4]/a[1]
 authorpath: //tr[@id='row651']/td[2]
 authors: Diti Bhadra
 title: Evidentiality and Bias in Polar Questions: Bangla 'Naki'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: evidentiality, speaker bias, polar questions, Bangla
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Rutgers University
 
@@ -610,6 +740,8 @@ infopath: //tr[@id='row661']/td[4]/a[1]
 authorpath: //tr[@id='row661']/td[2]
 authors: Tue Trinh,Andreas Haida
 title: Some Constraints on the Derivation of Alternatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: alternatives, scalar implicatures, symmetry
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Wisconsin - Milwaukee,Humboldt-Universitaet zu Berlin
@@ -620,6 +752,8 @@ infopath: //tr[@id='row671']/td[4]/a[1]
 authorpath: //tr[@id='row671']/td[2]
 authors: Yingying Wang,Haihua Pan
 title: A note on the non-de se interpretation of attitude reports
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: de se, de re, attitude report, empathy, Chinese ziji
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Institute of Logic and Cognition, Philosophical Department, Sun Yat-Sen University,Department of Chinese, Translation and Linguistics, City Univerisity of Hong Kong
@@ -630,6 +764,8 @@ infopath: //tr[@id='row681']/td[4]/a[1]
 authorpath: //tr[@id='row681']/td[2]
 authors: Eric Mccready,Nicholas Asher
 title: How Hard Is It To Be Polite?
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: politeness, complexity, Gale-Stewart games
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Dept. of English, Aoyama Gakuin University,CNRS Laboratoire IRIT, Université Paul Sabatier
@@ -640,6 +776,8 @@ infopath: //tr[@id='row691']/td[4]/a[1]
 authorpath: //tr[@id='row691']/td[2]
 authors: Bert Le Bruyn,Julia Pozas-Loyo
 title: Plural indefinite articles: the case of 'des' and 'unos'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: indefinite articles, plurality, for-adverbials, Romance
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: UiL-OTS (Utrecht Institute of Linguistics),Colegio de México
@@ -650,6 +788,8 @@ infopath: //tr[@id='row701']/td[4]/a[1]
 authorpath: //tr[@id='row701']/td[2]
 authors: Stergios Chatzikyriakidis,Zhaohui Luo
 title: On Hyperintensionality in Modern Type Theories
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modern Type Theories, Hyperintensionality, Belief Contexts, Coercive Subtyping
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Royal Holloway, University of London; Open University of Cyprus,Royal Holloway, University of London
@@ -660,6 +800,8 @@ infopath: //tr[@id='row711']/td[4]/a[1]
 authorpath: //tr[@id='row711']/td[2]
 authors: Jonathan Ginzburg,Tim Fernando
 title: Adjectives, Abstract Entities, and Type Theory
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Questions, Adjectives, Type Theory, Semantic Ontology
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Université Paris-Diderot (Paris 7),Trinity College Dublin
@@ -670,6 +812,8 @@ infopath: //tr[@id='row721']/td[4]/a[1]
 authorpath: //tr[@id='row721']/td[2]
 authors: Kriszta Szendroi,Barbara Hohle
 title: Acquisition evidence for a global economy-view of Quantifier Raising
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: quantifier raising, global economy, child language acquisition, interfaces, inverse scope
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: UCL,Potsdam University
@@ -680,6 +824,8 @@ infopath: //tr[@id='row731']/td[4]/a[1]
 authorpath: //tr[@id='row731']/td[2]
 authors: Bridget Copley,Heidi Harley
 title: Explicating aspectual systems by exploding the reference time
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: model-theoretic semantics, aspect, branching time
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: SFL (CNRS/Paris 8),University of Arizona
@@ -690,6 +836,8 @@ infopath: //tr[@id='row741']/td[4]/a[1]
 authorpath: //tr[@id='row741']/td[2]
 authors: Luis Vicente
 title: Expanding the typology of parenthetical 'as'-clauses
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: as-parentheticals, focus, typology of parentheticals
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universität Potsdam
 
@@ -699,6 +847,8 @@ infopath: //tr[@id='row751']/td[4]/a[1]
 authorpath: //tr[@id='row751']/td[2]
 authors: Cecile Meier
 title: Moving Relatives: A unified account for amount relatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: amount (or degree) relatives, there-existentials, Genitive of Negation/Intensionality in Russian, comparatives, Type shifting
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universitaet Frankfurt
 
@@ -708,6 +858,8 @@ infopath: //tr[@id='row761']/td[4]/a[1]
 authorpath: //tr[@id='row761']/td[2]
 authors: Inna Tolskaya
 title: In and out of places, states and activities. Russian verbal prefixes and scales
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: verval prefixes, event structure, aspect, telicity, scalarity, Russian
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Tromø University
 
@@ -717,6 +869,8 @@ infopath: //tr[@id='row771']/td[4]/a[1]
 authorpath: //tr[@id='row771']/td[2]
 authors: Dag Haug
 title: The anaphoric semantics of partial control
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: control, anaphora, DRT, de se
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Oslo
 
@@ -726,6 +880,8 @@ infopath: //tr[@id='row781']/td[4]/a[1]
 authorpath: //tr[@id='row781']/td[2]
 authors: Dan Zeman
 title: The variadic operaor account of experiencer phrases
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: experiencer phrases, variadic operators, evaluative predicates, contextualism, relativism
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universitat Pompeu Fabra, Barcelona
 
@@ -735,6 +891,8 @@ infopath: //tr[@id='row791']/td[4]/a[1]
 authorpath: //tr[@id='row791']/td[2]
 authors: Etsuko Oishi
 title: Discourse referents: the targets of expositive illocutionary acts
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: discourse referents, propositional discourse elements, metalinguistic negation, speech acts, expositives, J. L. Austin, numerals, belief
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Fuji Women's University
 
@@ -744,6 +902,8 @@ infopath: //tr[@id='row801']/td[4]/a[1]
 authorpath: //tr[@id='row801']/td[2]
 authors: Eva Csipak
 title: Pizza subjunctives and optimal actions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: factive use of the subjunctive, decision theory, German
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universität Göttingen
 
@@ -753,6 +913,8 @@ infopath: //tr[@id='row811']/td[4]/a[1]
 authorpath: //tr[@id='row811']/td[2]
 authors: Christopher Davis
 title: The Anatomy of Japanese Rhetorical Questions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Rhetorical Questions, Question Semantics, Japanese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of the Ryukyus
 
@@ -762,6 +924,8 @@ infopath: //tr[@id='row821']/td[4]/a[1]
 authorpath: //tr[@id='row821']/td[2]
 authors: Carla Umbach
 title: The semantic and the pragmatic dimension of evaluative statements
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: taste, beauty, relativism, faultless disagreement, normativity, descriptive / interpretational usage, common ground, individual discourse commitments
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Zentrum für Allgemeine Sprachwissenschaft Berlin
 
@@ -771,6 +935,8 @@ infopath: //tr[@id='row831']/td[4]/a[1]
 authorpath: //tr[@id='row831']/td[2]
 authors: Carla Umbach,Helmar Gust
 title: Generating ad-hoc kinds by similarity
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: similarity, demonstratives, kinds, measure functions, multidimensional attribute spaces, indistinguishability, sameness
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Zentrum für Allgemeine Sprachwissenschaft Berlin,Institute of Cognitive Science, University of Osnabrück
@@ -781,6 +947,8 @@ infopath: //tr[@id='row841']/td[4]/a[1]
 authorpath: //tr[@id='row841']/td[2]
 authors: Erin Zaroukian
 title: Rising intonation in modal concord
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modal concord, prosody, epistemic modality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Ecole Normale Superieure, CNRS
 
@@ -790,6 +958,8 @@ infopath: //tr[@id='row851']/td[4]/a[1]
 authorpath: //tr[@id='row851']/td[2]
 authors: Paul Portner,Aynat Rubinstein
 title: Extreme Modality
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modality, extreme adjectives, scale semantics, gradability, comparatives
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Georgetown University,The Hebrew University of Jerusalem
@@ -800,6 +970,8 @@ infopath: //tr[@id='row861']/td[4]/a[1]
 authorpath: //tr[@id='row861']/td[2]
 authors: Osamu Sawada
 title: Two types of goal-oriented comparisons in Japanese
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: goal-oriented comparisons, information structure, conventional implicature, Japanese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Mie University
 
@@ -809,6 +981,8 @@ infopath: //tr[@id='row871']/td[4]/a[1]
 authorpath: //tr[@id='row871']/td[2]
 authors: Hana Filip,Laura Kallmeyer
 title: The progressive in constraint-based semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: computational semantics, imperfective paradox, mereology
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Duesseldorf,University of Duesseldorf
@@ -819,6 +993,8 @@ infopath: //tr[@id='row881']/td[4]/a[1]
 authorpath: //tr[@id='row881']/td[2]
 authors: Scott Anderbois
 title: On the exceptional status of reportative evidentials
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Evidentials, Assertion, Perspective Shift, Reported Speech
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Brown
 
@@ -828,6 +1004,8 @@ infopath: //tr[@id='row891']/td[4]/a[1]
 authorpath: //tr[@id='row891']/td[2]
 authors: Richard Zuber
 title: Expressibility of higher order anaphors and comparatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: higher order anaphors, higher order comparatives, predicate invariance, argument invariance
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CNRS, Paris
 
@@ -837,6 +1015,8 @@ infopath: //tr[@id='row901']/td[4]/a[1]
 authorpath: //tr[@id='row901']/td[2]
 authors: Corinne Rossari,Elena Siminiciuc
 title: Interfaces between lexical meaning, rhetorical values and commitment: the case of the future in French, Italian and Romanian
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Evidentiality, Future, French, Italian, Romanian
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Neuchâtel,University of Neuchâtel / University of Fribourg
@@ -847,6 +1027,8 @@ infopath: //tr[@id='row911']/td[4]/a[1]
 authorpath: //tr[@id='row911']/td[2]
 authors: Florian Schwarz,Jacopo Romoli,Cory Bill
 title: Scalar Implicature Processing: Slowly Accepting the Truth (Literally)
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: scalar implicatures, pragmatic processing, reaction times
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -858,6 +1040,8 @@ infopath: //tr[@id='row921']/td[4]/a[1]
 authorpath: //tr[@id='row921']/td[2]
 authors: Thuan Tran
 title: Aktionsart and tense interpretation: the case of Vietnamese
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Aktionsart, Tense, Aspect, Vietnamese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Potsdam
 
@@ -867,6 +1051,8 @@ infopath: //tr[@id='row931']/td[4]/a[1]
 authorpath: //tr[@id='row931']/td[2]
 authors: Charles Beller,Erin Zaroukian
 title: Making requests
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modals, speech acts, subjunctive, evaluative predicates
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Johns Hopkins University,Ecole Normale Superieure, CNRS
@@ -877,6 +1063,8 @@ infopath: //tr[@id='row941']/td[4]/a[1]
 authorpath: //tr[@id='row941']/td[2]
 authors: Agata Renans
 title: Imperfective in Ga (Kwa, Niger-Congo) and its interaction with focus and the demonstrative particle
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Ga (Kwa Niger-Congo), Imperfective, focus semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Potsdam, SFB 632
 
@@ -886,6 +1074,8 @@ infopath: //tr[@id='row951']/td[4]/a[1]
 authorpath: //tr[@id='row951']/td[2]
 authors: Haoze Li,Hoi Ki Law
 title: Focus intervention effects and the quantificational domain of focus operators
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus intervention effects, association between focus operators and wh-phrases, Hamblin semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Chinese University of Hong Kong,Rutgers University
@@ -896,6 +1086,8 @@ infopath: //tr[@id='row961']/td[4]/a[1]
 authorpath: //tr[@id='row961']/td[2]
 authors: Chungmin Lee
 title: Contrastive Topic and Conventional Scalar Implicature
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Contrastive Topic, Conventional Scalar Implicature, information structure, QUD, Potential Topic, list Contrastive Topic, cross-linguistic phenomenon, 'too' clause
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Seoul Nat'l U
 
@@ -905,6 +1097,8 @@ infopath: //tr[@id='row971']/td[4]/a[1]
 authorpath: //tr[@id='row971']/td[2]
 authors: Yuli Feng,Haihua Pan
 title: Against the maximality approach to Mandarin dou
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: universal quantification, maximality, definiteness, intensional FCI, Mandarin
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: City University of Hong Kong,City University of Hong Kong
@@ -915,6 +1109,8 @@ infopath: //tr[@id='row981']/td[4]/a[1]
 authorpath: //tr[@id='row981']/td[2]
 authors: Angus Grieve-Smith
 title: The role of ambiguity in the evolution of French “ne ... pas”
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: negation, semantic change, ambiguity, French, Romance
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Saint John's University
 
@@ -924,6 +1120,8 @@ infopath: //tr[@id='row991']/td[4]/a[1]
 authorpath: //tr[@id='row991']/td[2]
 authors: Jing Lin,Fred Weerman,Hedde Zeijlstra
 title: What language acquisition tells us about the nature of NPIs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Downward Entailment, Language Acquisition, Negative Polarity Items (NPIs), Negation, Non-veridicality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -935,6 +1133,8 @@ infopath: //tr[@id='row1001']/td[4]/a[1]
 authorpath: //tr[@id='row1001']/td[2]
 authors: Mihaela Popa
 title: Attitudes embedding: Expression of ironic content and attitude as speech-act
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: embedded irony, attitude embedding, attitude projection, ironic speech-act, expressivism
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Birmingham
 
@@ -944,6 +1144,8 @@ infopath: //tr[@id='row1011']/td[4]/a[1]
 authorpath: //tr[@id='row1011']/td[2]
 authors: Eugene Green
 title: The First Amendment, Miranda Rights, and Linguistic Theory
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: orders of language, expressive verbs, semantic fields, metalinguistic functions
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Boston University
 
@@ -953,6 +1155,8 @@ infopath: //tr[@id='row1021']/td[4]/a[1]
 authorpath: //tr[@id='row1021']/td[2]
 authors: Signe Rix Berthelin
 title: On the modality of modal particles – the case of Norwegian 'jo'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modality, Modal particles, Norwegian
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Norwegian University of Science and Technology
 
@@ -962,6 +1166,8 @@ infopath: //tr[@id='row1031']/td[4]/a[1]
 authorpath: //tr[@id='row1031']/td[2]
 authors: Giorgos Spathas
 title: Disentangling own: evidence from association with focus
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: possession, reflexivization, focus
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Stuttgart
 
@@ -971,6 +1177,8 @@ infopath: //tr[@id='row1041']/td[4]/a[1]
 authorpath: //tr[@id='row1041']/td[2]
 authors: Mandy Simons
 title: Interpreting Answers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: questions, answers, DRT
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CMU
 
@@ -980,6 +1188,8 @@ infopath: //tr[@id='row1051']/td[4]/a[1]
 authorpath: //tr[@id='row1051']/td[2]
 authors: Patrick Elliott,Andreea Nicolae,Yasutada Sudo
 title: VP Ellipsis without Parallel Binding: Towards a QUD approach
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: VP Ellipsis, Question Under Discussion, Strict and sloppy identity, Parallelism, Focus, Information structure
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -991,6 +1201,8 @@ infopath: //tr[@id='row1061']/td[4]/a[1]
 authorpath: //tr[@id='row1061']/td[2]
 authors: Pauline Jacobson,Edward Gibson
 title: On Line Processing of ACD Gives No Evidence for QR
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Quantifier Raising, Antecedent Contained Deletion, Hackl et al effect, On Line processing, Logical Form
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Brown University, Dept. of Cognitive, Linguistic and Psychological Sciences,MIT, Dept. of Brain and Cognitive Sciences
@@ -1001,6 +1213,8 @@ infopath: //tr[@id='row1071']/td[4]/a[1]
 authorpath: //tr[@id='row1071']/td[2]
 authors: Charles Lam
 title: Privative Adjectives and Membership Modiﬁcation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: privative adjectives, individual-level predicates, intersectivity, membership
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Purdue University
 
@@ -1010,6 +1224,8 @@ infopath: //tr[@id='row1081']/td[4]/a[1]
 authorpath: //tr[@id='row1081']/td[2]
 authors: Vincent Homer
 title: Anatomy of 'ne que'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Exceptive, Presupposition, French
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CNRS
 
@@ -1019,6 +1235,8 @@ infopath: //tr[@id='row1091']/td[4]/a[1]
 authorpath: //tr[@id='row1091']/td[2]
 authors: Ivano Ciardelli,Floris Roelofsen
 title: Composing alternatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: alternative semantics, compositionality, inquisitive semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: ILLC, University of Amsterdam,ILLC, University of Amsterdam
@@ -1029,6 +1247,8 @@ infopath: //tr[@id='row1101']/td[4]/a[1]
 authorpath: //tr[@id='row1101']/td[2]
 authors: Ivano Ciardelli
 title: Question meaning = resolution conditions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Question semantics, Partition theory of questions, Inquisitive semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: ILLC - University of Amsterdam
 
@@ -1038,6 +1258,8 @@ infopath: //tr[@id='row1111']/td[4]/a[1]
 authorpath: //tr[@id='row1111']/td[2]
 authors: Scott Grimm,Mojmír Dočekal,Markéta Ziková
 title: Sorting the Nominal Domain: Evidence from Czech
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: count/mass, nominal semantics, complex numbers, Czech
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -1049,6 +1271,8 @@ infopath: //tr[@id='row1121']/td[4]/a[1]
 authorpath: //tr[@id='row1121']/td[2]
 authors: Peter Sutton
 title: Probabilistic Prototypes and Compositionality
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Compositionality, Probability, Prototypes
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: King's College London
 
@@ -1058,6 +1282,8 @@ infopath: //tr[@id='row1131']/td[4]/a[1]
 authorpath: //tr[@id='row1131']/td[2]
 authors: Roni Katzir,Raj Singh
 title: Economy of structure and information
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: implicature, alternatives, economy, exhaustification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Tel Aviv University,Carleton University, Institute of Cognitive Science
@@ -1068,6 +1294,8 @@ infopath: //tr[@id='row1141']/td[4]/a[1]
 authorpath: //tr[@id='row1141']/td[2]
 authors: Gwendolyn Gillingham
 title: Modal Scale Reversal, of all things
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Focus, Scale-Reversal, Modality, Intonation, Emphasis
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of California, San Diego
 
@@ -1077,6 +1305,8 @@ infopath: //tr[@id='row1151']/td[4]/a[1]
 authorpath: //tr[@id='row1151']/td[2]
 authors: Remus Gergel,Penka Stateva
 title: AL(L)+MOST: From diachrony to decomposition
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: decomposition, superlatives, language change, syntax-semantics interface
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Graz,University of Nova Gorica
@@ -1087,6 +1317,8 @@ infopath: //tr[@id='row1161']/td[4]/a[1]
 authorpath: //tr[@id='row1161']/td[2]
 authors: Radek Simik
 title: Epistemic indefinites under epistemic modals in Czech
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: epistemic indefinites, epistemic modals, evidentiality, Czech, Slavic
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Potsdam/SFB632
 
@@ -1096,6 +1328,8 @@ infopath: //tr[@id='row1171']/td[4]/a[1]
 authorpath: //tr[@id='row1171']/td[2]
 authors: Stefan Hinterwimmer
 title: A Comparison of the German modal verbs "sollen" and "wollen"
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modal verbs, evidentially, intentionality, speech acts, events
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Cologne
 
@@ -1105,6 +1339,8 @@ infopath: //tr[@id='row1181']/td[4]/a[1]
 authorpath: //tr[@id='row1181']/td[2]
 authors: Olga Kagan,Lavi Wolf
 title: Gradability versus Modality: Almost in English and Russian
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: modality, possible worlds, inertia worlds, gradability, almost
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Ben-Gurion University of the Negev,Ben-Gurion University of the Negev
@@ -1115,6 +1351,8 @@ infopath: //tr[@id='row1191']/td[4]/a[1]
 authorpath: //tr[@id='row1191']/td[2]
 authors: Olga Kagan
 title: Event Specificity and the Pragmatics of Perfective Aspect in Russian
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: perfectivity, aspect, possible worlds, branching futures, specificity
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Ben-Gurion University of the Negev
 
@@ -1124,6 +1362,8 @@ infopath: //tr[@id='row1201']/td[4]/a[1]
 authorpath: //tr[@id='row1201']/td[2]
 authors: Serge Minor
 title: Dependent Plurals and Hamblin Alternatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: dependent plurals, Hamblin alternatives, distributivity, scope
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Tromsø
 
@@ -1133,6 +1373,8 @@ infopath: //tr[@id='row1211']/td[4]/a[1]
 authorpath: //tr[@id='row1211']/td[2]
 authors: M. Ryan Bochnak,Eva Csipak
 title: A new metalinguistic degree morpheme
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: metalinguistic degree morphemes, attenuation, modal particles
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of California, Berkeley,University of Goettingen
@@ -1143,6 +1385,8 @@ infopath: //tr[@id='row1221']/td[4]/a[1]
 authorpath: //tr[@id='row1221']/td[2]
 authors: Paolo Santorio
 title: Filtering semantics for counterfactuals
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactuals, Angelika Kratzer, Premise semantics, Counterfactual logic, Causal models, Judea Pearl
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Leeds
 
@@ -1152,6 +1396,8 @@ infopath: //tr[@id='row1231']/td[4]/a[1]
 authorpath: //tr[@id='row1231']/td[2]
 authors: Marta Abrusan,Julie Hunter
 title: Dynamic Discourse Topic
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Discourse topic, QUD, Right Frontier Constraint, Rhetorical structure, Information Structure
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: CNRS/IRIT,INRIA
@@ -1162,6 +1408,8 @@ infopath: //tr[@id='row1241']/td[4]/a[1]
 authorpath: //tr[@id='row1241']/td[2]
 authors: Mira Grubic
 title: Conditional marking, temporal adverbials and backgrounding as topic situation-shifters
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conditionals, temporal adverbials, focus, clefts, definite descriptions, situation semantics, information structure
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Potsdam University
 
@@ -1171,6 +1419,8 @@ infopath: //tr[@id='row1251']/td[4]/a[1]
 authorpath: //tr[@id='row1251']/td[2]
 authors: Urtzi Etxeberria,Aritz Irurtzun
 title: Additivity and scalarity in Basque
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: additivity, scalarity, prosody, Basque particle 'ere'
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: CNRS-IKER,CNRS-IKER
@@ -1181,6 +1431,8 @@ infopath: //tr[@id='row1261']/td[4]/a[1]
 authorpath: //tr[@id='row1261']/td[2]
 authors: Ruggero Montalto,Angeliek van Hout,Ken Drozd,Ben Maassen
 title: The verification procedure of the Dutch universal quantifier alle: Restrictedness and the Analogue Magnitude System
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Quantification, Universal Quantifiers, Verification Procedure, Restrictedness, Analogue Magnitude System
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -1193,6 +1445,8 @@ infopath: //tr[@id='row1271']/td[4]/a[1]
 authorpath: //tr[@id='row1271']/td[2]
 authors: Marie-Catherine de Marneffe,Judith Tonhauser
 title: Scalar inferences in the face of “speaker uncertainty”
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: scalar implicatures, prosody, "uncertainty" contour, perception experiment
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Ohio State University,The Ohio State University
@@ -1203,6 +1457,8 @@ infopath: //tr[@id='row1281']/td[4]/a[1]
 authorpath: //tr[@id='row1281']/td[2]
 authors: Caleb Perl
 title: Russellians can get donkeys and bishops just right
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: donkey anaphora, descriptions, free choice items
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: USC
 
@@ -1212,6 +1468,8 @@ infopath: //tr[@id='row1291']/td[4]/a[1]
 authorpath: //tr[@id='row1291']/td[2]
 authors: Elitzur Bar-Asher Siegal,Nora Boneh
 title: Inferences of non-core datives in Modern Hebrew
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Non-core dative, Affectedness, Presupposition, Modern Hebrew
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Hebrew University of Jerusalem,The Hebrew University of Jerusalem
@@ -1222,6 +1480,8 @@ infopath: //tr[@id='row1301']/td[4]/a[1]
 authorpath: //tr[@id='row1301']/td[2]
 authors: Marie-Christine Meyer
 title: Grammatical Uncertainty Implicatures and Hurford's Constraint
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Implicatures, Hurford's Constraint, Exhaustification, Disjunction, Formal Pragmatics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: ZAS
 
@@ -1231,6 +1491,8 @@ infopath: //tr[@id='row1311']/td[4]/a[1]
 authorpath: //tr[@id='row1311']/td[2]
 authors: Uli Sauerland
 title: Proportional Quantifiers and Non-Conservativity: Evidence for Determiner to Adverb Conversion at LF
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: quantification, German, conservativity, focus, syntax
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: ZAS
 
@@ -1240,6 +1502,8 @@ infopath: //tr[@id='row1321']/td[4]/a[1]
 authorpath: //tr[@id='row1321']/td[2]
 authors: Daniel Gutzmann
 title: Truth-conditional import of use-conditional content
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Multi-dimensional semantics, Expressives, Focus, Metalinguistic negation, Gestures
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Frankfurt
 
@@ -1249,6 +1513,8 @@ infopath: //tr[@id='row1331']/td[4]/a[1]
 authorpath: //tr[@id='row1331']/td[2]
 authors: Carl Pollard
 title: A Hamblinian analysis of conditional questions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conditional question, inquistive semantics, Hamblin semantics, implicature
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: The Ohio State University
 
@@ -1258,6 +1524,8 @@ infopath: //tr[@id='row1341']/td[4]/a[1]
 authorpath: //tr[@id='row1341']/td[2]
 authors: Fabrizio Cariani
 title: One Theory to Rule Them All?
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Deontic Modality, Premise Semantics, Scalar Semantics, Probability Operators
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Northwestern University
 
@@ -1267,6 +1535,8 @@ infopath: //tr[@id='row1351']/td[4]/a[1]
 authorpath: //tr[@id='row1351']/td[2]
 authors: Robin Cooper,Jonathan Ginzburg
 title: Questions and Propositions: A Separation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Questions, Semantic Ontology, Type Theory with Records, Dialogue
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Gothenburg,Université Paris-Diderot (Paris 7)
@@ -1277,6 +1547,8 @@ infopath: //tr[@id='row1361']/td[4]/a[1]
 authorpath: //tr[@id='row1361']/td[2]
 authors: Noortje Venhuizen,Johan Bos,Petra Hendriks,Harm Brouwer
 title: How and Why Conventional Implicatures Project
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Conventional implicature, Presupposition, Projection, DRT, At-issueness
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -1289,6 +1561,8 @@ infopath: //tr[@id='row1371']/td[4]/a[1]
 authorpath: //tr[@id='row1371']/td[2]
 authors: Dominique Blok
 title: The semantics and pragmatics of directional numeral modifiers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modified numerals, Scalar quantification, Conversational implicatures
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Utrecht University
 
@@ -1298,6 +1572,8 @@ infopath: //tr[@id='row1381']/td[4]/a[1]
 authorpath: //tr[@id='row1381']/td[2]
 authors: Philippe Cote-Boucher
 title: Severing exhaustification from 'only'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: scalar implicature, only, exhaustification, contextual standard, alternatives, situation semantics, question under discussion
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UCLA
 
@@ -1307,6 +1583,8 @@ infopath: //tr[@id='row1391']/td[4]/a[1]
 authorpath: //tr[@id='row1391']/td[2]
 authors: Tue Trinh
 title: How to ask the obvious - Detecting evidentiality in yes/no questions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: yes/no questions, bias, evidentiality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Wisconsin - Milwaukee
 
@@ -1316,6 +1594,8 @@ infopath: //tr[@id='row1401']/td[4]/a[1]
 authorpath: //tr[@id='row1401']/td[2]
 authors: Yusuke Kubota,Robert Levine
 title: Scope Parallelism in Right-Node Raising
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Geach sentence, Right-Node Raising, scope parallelism, Type-Logical Categorial Grammar
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Ohio State University Department of Linguistics,Ohio State University Department of Linguistics
@@ -1326,6 +1606,8 @@ infopath: //tr[@id='row1411']/td[4]/a[1]
 authorpath: //tr[@id='row1411']/td[2]
 authors: Alex Djalali
 title: Continuing with ordinary adjectival comparatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: comparatives, continuations, semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Stanford University
 
@@ -1335,6 +1617,8 @@ infopath: //tr[@id='row1421']/td[4]/a[1]
 authorpath: //tr[@id='row1421']/td[2]
 authors: Hazel Pearson
 title: On the semantics of counterfactual attitudes
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactuality, Attitude reports, De re
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Zentrum für Allgemeine Sprachwissenschaf
 
@@ -1344,6 +1628,8 @@ infopath: //tr[@id='row1431']/td[4]/a[1]
 authorpath: //tr[@id='row1431']/td[2]
 authors: Hazel Pearson,Jeruen E. Dery
 title: Dreaming de re and de se: experimental evidence for de re blocking effects
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Experimental semantics, Attitude reports, De se and de re
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Zentrum für Allgemeine Sprachwissenschaf,Zentrum für Allgemeine Sprachwissenschaft
@@ -1354,6 +1640,8 @@ infopath: //tr[@id='row1441']/td[4]/a[1]
 authorpath: //tr[@id='row1441']/td[2]
 authors: Gabriel Roisenberg Rodrigues
 title: A QUD approach to concessive at least
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Pragmatics, Focus sensitivity, Questions-Under-Discussion
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Michigan State University
 
@@ -1363,6 +1651,8 @@ infopath: //tr[@id='row1451']/td[4]/a[1]
 authorpath: //tr[@id='row1451']/td[2]
 authors: M.J. Arche,Antonio Fábregas,Rafael Marín
 title: Individual-level and stage-level states
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: individual-level/stage-level predicates, states, ser/estar alternation, Spanish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -1374,6 +1664,8 @@ infopath: //tr[@id='row1461']/td[4]/a[1]
 authorpath: //tr[@id='row1461']/td[2]
 authors: Julie Hunter,Laurence Danlos
 title: Evidentials in Discourse
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: evidentials, reports, discourse structure, main point content
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: INRIA,INRIA
@@ -1384,6 +1676,8 @@ infopath: //tr[@id='row1471']/td[4]/a[1]
 authorpath: //tr[@id='row1471']/td[2]
 authors: Suzi Lima
 title: All notional mass nouns are count nouns in Yudja.
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Count/mass distinction, Numerals, Yudja, Quantity judgments
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard University
 
@@ -1393,6 +1687,8 @@ infopath: //tr[@id='row1481']/td[4]/a[1]
 authorpath: //tr[@id='row1481']/td[2]
 authors: Huilin Fang
 title: On the scalar semantics of the Mandarin focus particle you
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Focus, Scalar particle, Presupposition, Mandarin Chinese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Department of Linguistics, University of Southern California
 
@@ -1402,6 +1698,8 @@ infopath: //tr[@id='row1491']/td[4]/a[1]
 authorpath: //tr[@id='row1491']/td[2]
 authors: Dimitra Lazaridou-Chatzigoga,Linnaea Stockall
 title: Are (all) generics easy? Processing generic and universal interpretations
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: domain restriction, exceptions, genericity, universal quantification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Queen Mary, University of London,Queen Mary, University of London
@@ -1412,6 +1710,8 @@ infopath: //tr[@id='row1501']/td[4]/a[1]
 authorpath: //tr[@id='row1501']/td[2]
 authors: Katja Jasinskaja
 title: On the function of ellipsis in adversative coordination
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: adversative coordination, but, focus, exhaustivity, ellipsis, negation, correction
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Centre for General Linguistics (ZAS)
 
@@ -1421,6 +1721,8 @@ infopath: //tr[@id='row1511']/td[4]/a[1]
 authorpath: //tr[@id='row1511']/td[2]
 authors: E. Matthew Husband,Nicholas Angelides
 title: Cognitive resources underlying scalar implicature: A subclinical study
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: executive function, gradable adjectives, scalar implicature, semantic memory, social cognition
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Oxford,University of Oxford
@@ -1431,6 +1733,8 @@ infopath: //tr[@id='row1521']/td[4]/a[1]
 authorpath: //tr[@id='row1521']/td[2]
 authors: Dilip Ninan
 title: The Acquaintance Inference
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: predicates of personal taste, implicature, presupposition, projection, assertion
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Tufts University
 
@@ -1440,6 +1744,8 @@ infopath: //tr[@id='row1531']/td[4]/a[1]
 authorpath: //tr[@id='row1531']/td[2]
 authors: Gregory Scontras
 title: Amount Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: degrees, amount relatives, measurement
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard University
 
@@ -1449,6 +1755,8 @@ infopath: //tr[@id='row1541']/td[4]/a[1]
 authorpath: //tr[@id='row1541']/td[2]
 authors: Tamara Vardomskaya,Carlos Cisneros,Julian Grove,Anqi Zhang,Tim Grinsell,Kjell Johan Sæbø
 title: “Alone”: Quantification and Spatio-Social Gradation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: adjectives, gradability, social dimension
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -1463,6 +1771,8 @@ infopath: //tr[@id='row1551']/td[4]/a[1]
 authorpath: //tr[@id='row1551']/td[2]
 authors: Martin Aher,Jeroen Groenendijk
 title: Deontic and Epistemic Modals in Suppositional Inquisitive Semantics (InqS)
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modality, Dr. Procrastinate puzzle, Inquisitive Semantics, Suppositions
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Osnabrück,Universiteit van Amsterdam, ILLC
@@ -1473,6 +1783,8 @@ infopath: //tr[@id='row1561']/td[4]/a[1]
 authorpath: //tr[@id='row1561']/td[2]
 authors: Martin Aher
 title: A New Twist to the Miners Puzzle
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Miners puzzle, Deontic and epistemic modals, Inquisitive Semantics, Deontic conflict
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Osnabrück
 
@@ -1482,6 +1794,8 @@ infopath: //tr[@id='row1571']/td[4]/a[1]
 authorpath: //tr[@id='row1571']/td[2]
 authors: Alexander Podobryaev
 title: Imposter operators
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: pronouns, person features, imposters
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: MIT
 
@@ -1491,6 +1805,8 @@ infopath: //tr[@id='row1581']/td[4]/a[1]
 authorpath: //tr[@id='row1581']/td[2]
 authors: Paolo Bonardi
 title: Russellianism and belief-state reports
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Russellianism, belief reports, belief-state reports, substitution salva veritate, Millian names
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Geneva
 
@@ -1500,6 +1816,8 @@ infopath: //tr[@id='row1591']/td[4]/a[1]
 authorpath: //tr[@id='row1591']/td[2]
 authors: Yangsook Park
 title: Indexicals and the long-distance reflexive caki in Korean
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: indexical shift, long-distance reflexive, de se
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UMass Amherst
 
@@ -1509,6 +1827,8 @@ infopath: //tr[@id='row1601']/td[4]/a[1]
 authorpath: //tr[@id='row1601']/td[2]
 authors: Hillary Harner
 title: A Simple and a Weak Necessity for Want
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: want, focus, deliberative modality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Georgetown University
 
@@ -1518,6 +1838,8 @@ infopath: //tr[@id='row1611']/td[4]/a[1]
 authorpath: //tr[@id='row1611']/td[2]
 authors: Dmitry Privoznov
 title: Distorting Mirror Principle in Karachay-Balkar and Tatar
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: syntax morphology interface, scope, causative, Karachay-Balkar, Tatar
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: MSU
 
@@ -1527,6 +1849,8 @@ infopath: //tr[@id='row1621']/td[4]/a[1]
 authorpath: //tr[@id='row1621']/td[2]
 authors: B. R. George,Jonathan Phillips
 title: Knowledge-'wh' and (Non-)Reducibility: Experimental Investigations
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: interrogatives, knowledge wh, experimental semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Yale University,Yale University
@@ -1537,6 +1861,8 @@ infopath: //tr[@id='row1631']/td[4]/a[1]
 authorpath: //tr[@id='row1631']/td[2]
 authors: Elena Herburger
 title: _Only if_ and existential force
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conditionals, only, quantifiers
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Georgetown University
 
@@ -1546,6 +1872,8 @@ infopath: //tr[@id='row1641']/td[4]/a[1]
 authorpath: //tr[@id='row1641']/td[2]
 authors: Gregory Kierstead
 title: A unified theory of perspective shift
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Modality, Indexicality, Evidentiality, Tagalog
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Ohio State University
 
@@ -1555,6 +1883,8 @@ infopath: //tr[@id='row1651']/td[4]/a[1]
 authorpath: //tr[@id='row1651']/td[2]
 authors: Adrian Brasoveanu,Jessica Rett
 title: Evaluativity and the relative/absolute distinction
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: degree semantics, experimental semantics, gradable adjectives, comparatives, equatives, evaluativity, context-sensitivity
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of California, Santa Cruz,UCLA
@@ -1565,6 +1895,8 @@ infopath: //tr[@id='row1661']/td[4]/a[1]
 authorpath: //tr[@id='row1661']/td[2]
 authors: Nicole Palffy-Muhoray,Ashwini Deo
 title: Hungarian eppen: A discourse marker with precisifying and aspectual effects
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Hungarian, aspect, discourse marker, precisifier
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Yale University,Yale University
@@ -1575,6 +1907,8 @@ infopath: //tr[@id='row1671']/td[4]/a[1]
 authorpath: //tr[@id='row1671']/td[2]
 authors: Andreea Nicolae
 title: A conditional analysis of polar questions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: polar questions, negative polarity items, conditional perfection
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard University
 
@@ -1584,6 +1918,8 @@ infopath: //tr[@id='row1681']/td[4]/a[1]
 authorpath: //tr[@id='row1681']/td[2]
 authors: Andrea Beltrama,Jackson Lee
 title: Big pizzas, ghost negations: The emergence and persistence of mixed expressives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: expressive meaning, diachronic semantics, mixed expressives, Italian, Cantonese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Chicago,University of Chicago
@@ -1594,6 +1930,8 @@ infopath: //tr[@id='row1691']/td[4]/a[1]
 authorpath: //tr[@id='row1691']/td[2]
 authors: Yu-Mi Jo
 title: Three types of pluractional mappings: repetitive, continuative, and incremental pluractionality
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: temporal pluractionality, scalar pluractionality, reduplicative adverbs
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Seoul National University
 
@@ -1603,6 +1941,8 @@ infopath: //tr[@id='row1701']/td[4]/a[1]
 authorpath: //tr[@id='row1701']/td[2]
 authors: Katsuhiko Sano,Yurie Hara
 title: Conditional Independence and Biscuit Conditional Questions in Dynamic Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: biscuit conditional, question, independence, dynamic semantics, partition semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: School of of Information Science, Japan Advanced Institute of Science and Technology,City University of Hong Kong
@@ -1613,6 +1953,8 @@ infopath: //tr[@id='row1711']/td[4]/a[1]
 authorpath: //tr[@id='row1711']/td[2]
 authors: Roberto Zamparelli,Michelangelo Falco
 title: Overt Partitives, Covert Ones, and Italian Ne
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Partitives, Ellipsis, NP anaphors, Italian, Syntax/Semantics Interface
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: CIMEC, Università di Trento,Università di Trento
@@ -1623,6 +1965,8 @@ infopath: //tr[@id='row1721']/td[4]/a[1]
 authorpath: //tr[@id='row1721']/td[2]
 authors: Margit Bowler
 title: Coordination and disjunction in a language without 'and'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: coordination, disjunction, Australian Aboriginal languages, Warlpiri
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UCLA
 
@@ -1632,6 +1976,8 @@ infopath: //tr[@id='row1731']/td[4]/a[1]
 authorpath: //tr[@id='row1731']/td[2]
 authors: Christian Ebert,Cornelia Ebert
 title: Demonstratives as Dimension Shifters for Speech-Accompanying Gesture Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: at-issueness, demonstratives, gestures
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Tuebingen,University of Stuttgart
@@ -1642,6 +1988,8 @@ infopath: //tr[@id='row1741']/td[4]/a[1]
 authorpath: //tr[@id='row1741']/td[2]
 authors: Roberto Zamparelli
 title: Abstract Noun Conjunction
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Coordination, Abstract nouns, Events, Situations, Lexical Semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CIMEC, Università di Trento
 
@@ -1651,6 +1999,8 @@ infopath: //tr[@id='row1751']/td[4]/a[1]
 authorpath: //tr[@id='row1751']/td[2]
 authors: Wataru Uegaki
 title: Japanese-type alternative questions in a cross-linguistic perspective
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Alternative questions, Yes/No questions, Disjunction, Cross-linguistic variation
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Massachusetts Institute of Technology
 
@@ -1660,6 +2010,8 @@ infopath: //tr[@id='row1761']/td[4]/a[1]
 authorpath: //tr[@id='row1761']/td[2]
 authors: Benjamin Slade
 title: Some epistemic indefinite or other: global & local ignorance in Sinhala & English
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: epistemicity, indefinites, Sinhala
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Dept. of Linguistics, University of Utah
 
@@ -1669,6 +2021,8 @@ infopath: //tr[@id='row1771']/td[4]/a[1]
 authorpath: //tr[@id='row1771']/td[2]
 authors: Susan Rothstein
 title: Locations
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: locations, property theory, relative clauses
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Bar-Ilan University
 
@@ -1678,6 +2032,8 @@ infopath: //tr[@id='row1781']/td[4]/a[1]
 authorpath: //tr[@id='row1781']/td[2]
 authors: Arndt Riester
 title: Pseudo-Alternatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: givenness, deaccentuation, contrast, question under discussion, alternative, adjectival modification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Stuttgart
 
@@ -1687,6 +2043,8 @@ infopath: //tr[@id='row1791']/td[4]/a[1]
 authorpath: //tr[@id='row1791']/td[2]
 authors: Jefferson Barlew
 title: A new kind of definite: Uniqueness, salience, and the Bulu determiner -te
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: definites, uniqueness, salience, Bantu, Bulu
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: The Ohio State University
 
@@ -1696,6 +2054,8 @@ infopath: //tr[@id='row1801']/td[4]/a[1]
 authorpath: //tr[@id='row1801']/td[2]
 authors: Watit Pumyoo
 title: ‘Rice’ as a sole token: A concept of generalization in Thai.
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: rice, rice term, concept, conceptualization, generic term, generalization
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Chiangmai University, Faculty of Humanities
 
@@ -1705,6 +2065,8 @@ infopath: //tr[@id='row1811']/td[4]/a[1]
 authorpath: //tr[@id='row1811']/td[2]
 authors: William Carrasco
 title: A Lot of Little Boy: The Semantic Trajectory of a Quote by Roy Campanella
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: interpretation, text, neo-saussurian
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Barnard College & Hunter College
 
@@ -1714,6 +2076,8 @@ infopath: //tr[@id='row1821']/td[4]/a[1]
 authorpath: //tr[@id='row1821']/td[2]
 authors: Florian Schwarz
 title: Presuppositions are Fast, whether Hard or Soft - Evidence from the Visual World Paradigm
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: presuppositions, pragmatic processing, visual world paradigm
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Department of Linguistics, UPenn
 
@@ -1723,6 +2087,8 @@ infopath: //tr[@id='row1831']/td[4]/a[1]
 authorpath: //tr[@id='row1831']/td[2]
 authors: Chris Laterza
 title: Local plural anaphora as sub-event distributivity
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Distributivity, Reciprocity, Reflexivity, Event semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Department of Linguistics, University of Maryland
 
@@ -1732,6 +2098,8 @@ infopath: //tr[@id='row1841']/td[4]/a[1]
 authorpath: //tr[@id='row1841']/td[2]
 authors: Oana Lungu
 title: ‘Zero’ present under past: evidence from French child language
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: tense, language acquisition, French, futurate readings
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Universidade Nova de Lisboa
 
@@ -1741,6 +2109,8 @@ infopath: //tr[@id='row1851']/td[4]/a[1]
 authorpath: //tr[@id='row1851']/td[2]
 authors: Jungmin Kang,Stefan Kaufmann
 title: Counterfactual Conditionals in Korean
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactual Conditionals, Perfect aspect, fake/modal use, Korean
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Connecticut,University of Connecticut
@@ -1751,6 +2121,8 @@ infopath: //tr[@id='row1861']/td[4]/a[1]
 authorpath: //tr[@id='row1861']/td[2]
 authors: Brian Buccola
 title: A Blocking Solution to van Benthem's Problem
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: numeral modifiers, decreasing quantifiers, distributivity, scope interaction
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: McGill University, Department of Linguistics
 
@@ -1760,6 +2132,8 @@ infopath: //tr[@id='row1871']/td[4]/a[1]
 authorpath: //tr[@id='row1871']/td[2]
 authors: Ciyang Qing,Michael Franke
 title: Gradable Adjectives, Vagueness and Optimal Language Use: A Speaker-Oriented Model
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: relative/absolute gradable adjectives, scale structures, vagueness, probabilistic modeling
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Amsterdam,University of Amsterdam
@@ -1770,6 +2144,8 @@ infopath: //tr[@id='row1881']/td[4]/a[1]
 authorpath: //tr[@id='row1881']/td[2]
 authors: Paola Cepeda
 title: Exhaustivity and expletive negation in Spanish "hasta que no"
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Exhaustivity operator, Expletive negation, Scalar meaning, Until clause, Spanish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: PUCP / Stony Brook University
 
@@ -1779,6 +2155,8 @@ infopath: //tr[@id='row1891']/td[4]/a[1]
 authorpath: //tr[@id='row1891']/td[2]
 authors: Denis Paperno
 title: Deriving Domain Restriction in Selective Adverbial Quantification through Presupposition Accommodation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Russian, Slavic, presupposition, focus, adverbial quantification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Trento
 
@@ -1788,6 +2166,8 @@ infopath: //tr[@id='row1901']/td[4]/a[1]
 authorpath: //tr[@id='row1901']/td[2]
 authors: Laura Kertz
 title: What VPP can tell us about VPE (and how!)
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: anaphora, information structure, pragmatics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Brown University
 
@@ -1797,6 +2177,8 @@ infopath: //tr[@id='row1911']/td[4]/a[1]
 authorpath: //tr[@id='row1911']/td[2]
 authors: Hezekiah Akiva Bacovcin
 title: Restricting the Topic: Unifying Conditionals and Frame-Setting Locatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conditionals, situations, locatives
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Pennsylvania
 
@@ -1806,6 +2188,8 @@ infopath: //tr[@id='row1921']/td[4]/a[1]
 authorpath: //tr[@id='row1921']/td[2]
 authors: Yimei Xiang
 title: Covert ‘only’ versus overt ‘only’: evidence from polarity items
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Exhaustification, Polarity items, Focus
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard University
 
@@ -1815,6 +2199,8 @@ infopath: //tr[@id='row1931']/td[4]/a[1]
 authorpath: //tr[@id='row1931']/td[2]
 authors: Kyoko Sano
 title: Rhetorical Counterfactuals
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Counterfactuals, only if conditional, scalar implicature, possible worlds, ordering source
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Washington
 
@@ -1824,6 +2210,8 @@ infopath: //tr[@id='row1941']/td[4]/a[1]
 authorpath: //tr[@id='row1941']/td[2]
 authors: Michael Gagnon,Alexander Williams
 title: Seven reasons why even lazy pronouns are senseless
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: pronoun, anaphora, NP ellipsis
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Maryland,University of Maryland
@@ -1834,6 +2222,8 @@ infopath: //tr[@id='row1951']/td[4]/a[1]
 authorpath: //tr[@id='row1951']/td[2]
 authors: Andrea Beltrama
 title: Is this decent or mediocre? The semantics of adjectival mildness.
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Mild adjectives, Vagueness, Gradability, Evaluativity, Extreme adjectives
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -1843,6 +2233,8 @@ infopath: //tr[@id='row1961']/td[4]/a[1]
 authorpath: //tr[@id='row1961']/td[2]
 authors: Jean Mark Gawron
 title: Frames and Argument Structure: the case of reciprocality and togetherness
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: lexical semantics, frames, semantic nets
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: San Diego State University
 
@@ -1852,6 +2244,8 @@ infopath: //tr[@id='row1971']/td[4]/a[1]
 authorpath: //tr[@id='row1971']/td[2]
 authors: Timothy Grinsell
 title: Unlikely imperfectives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: gradability, vagueness, progressive
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -1861,6 +2255,8 @@ infopath: //tr[@id='row1981']/td[4]/a[1]
 authorpath: //tr[@id='row1981']/td[2]
 authors: Lisa Bylinina,Lena Karvovskaya
 title: 'Non-canonical' standards: A case study of perspective and comparison
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: comparatives, perspective, judge-dependence, grammaticalization, Turkish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Meertens Instituut (Amsterdam),Leiden University
@@ -1871,6 +2267,8 @@ infopath: //tr[@id='row1991']/td[4]/a[1]
 authorpath: //tr[@id='row1991']/td[2]
 authors: Margaret Kroll
 title: Exactly: An Alternative Analysis
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: exactly, alternatives, semantics/pragmatics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UCLA
 
@@ -1880,6 +2278,8 @@ infopath: //tr[@id='row2001']/td[4]/a[1]
 authorpath: //tr[@id='row2001']/td[2]
 authors: Maria Biezma
 title: The grammar of discourse: The case of then
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Discourse structure, Conditionals, Discourse reference, Discourse markers
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Konstanz
 
@@ -1889,6 +2289,8 @@ infopath: //tr[@id='row2011']/td[4]/a[1]
 authorpath: //tr[@id='row2011']/td[2]
 authors: César Aguilar
 title: To have and have not: a syntactic/semantic description of categorization verbs in Spanish
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Categorization Verbs, Lexical Features, Argument Structure, Predication Theory
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Pontificia Universidad Católica de Chile
 
@@ -1898,6 +2300,8 @@ infopath: //tr[@id='row2021']/td[4]/a[1]
 authorpath: //tr[@id='row2021']/td[2]
 authors: Elizabeth Bogal-Allbritten
 title: Interpreting DP-modifying modal adverbs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Epistemic modality, Adverbs, DP modification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Massachusetts Amherst
 
@@ -1907,6 +2311,8 @@ infopath: //tr[@id='row2031']/td[4]/a[1]
 authorpath: //tr[@id='row2031']/td[2]
 authors: Michael Oliver
 title: Lenient merge and privative adjective constructions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: compositional semantics, discourse representation theory, adjectival modification, privative adjectives, fake, counterfeit, Non-vacuity Principle, optimization
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Johns Hopkins University
 
@@ -1916,6 +2322,8 @@ infopath: //tr[@id='row2041']/td[4]/a[1]
 authorpath: //tr[@id='row2041']/td[2]
 authors: Tony Wright
 title: Flexible and Strict Accomplishments in English and American Sign Language
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: lexical aspect, incompleteness, accomplishments, American Sign Language
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Dept. of Linguistics, University of Texas at Austin
 
@@ -1925,6 +2333,8 @@ infopath: //tr[@id='row2051']/td[4]/a[1]
 authorpath: //tr[@id='row2051']/td[2]
 authors: Chungmin Lee,Hyesun Cho
 title: Contrastive Focus and Alternative Question
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: contrastive focus, alternative question, exactly one disjunct holds
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Seoul Nat'l U,Seoul Nat'l U
@@ -1935,6 +2345,8 @@ infopath: //tr[@id='row2061']/td[4]/a[1]
 authorpath: //tr[@id='row2061']/td[2]
 authors: Stephen Wechsler
 title: Conjunct Marking, Self-Ascription, and Surprise
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: reference de se, conjunct/disjunct, mirativity
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: The University of Texas
 
@@ -1944,6 +2356,8 @@ infopath: //tr[@id='row2071']/td[4]/a[1]
 authorpath: //tr[@id='row2071']/td[2]
 authors: Dawei Jin
 title: Semantics of Why and In Situ Islands
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Contradiction and Grammar, Why-question, Wh-in situ, Strong Islands, East Asian Languages
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: SUNY Buffalo
 
@@ -1953,6 +2367,8 @@ infopath: //tr[@id='row2081']/td[4]/a[1]
 authorpath: //tr[@id='row2081']/td[2]
 authors: Brendan Gillon
 title: Causative Polyadic English Verbs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: polyadic predicates, polyadicity, verbs with optional complements, causative verbs
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: McGill University
 
@@ -1962,6 +2378,8 @@ infopath: //tr[@id='row2091']/td[4]/a[1]
 authorpath: //tr[@id='row2091']/td[2]
 authors: Luvell Anderson
 title: Slurs and Slurring Speech Acts
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: slurs, speech acts, slurring utterances
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Memphis
 
@@ -1971,6 +2389,8 @@ infopath: //tr[@id='row2101']/td[4]/a[1]
 authorpath: //tr[@id='row2101']/td[2]
 authors: Yulia Zinova,Hana Filip
 title: Meaning components in the constitution of Russian verbs: Presuppositions or implicatures?
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Russian, Aspect, Presupposition, Scalar Implicatures
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Heinrich-Heine Universitaat Duesseldorf,Heinrich-Heine University
@@ -1981,6 +2401,8 @@ infopath: //tr[@id='row2111']/td[4]/a[1]
 authorpath: //tr[@id='row2111']/td[2]
 authors: Aron Hirsch
 title: Exh, only, and polarity-mismatch in Q/A pairs
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: pragmatics, exhaustive inferences, implicature, polarity-mismatching Q/A pairs
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Massachusetts Institute of Technology
 
@@ -1990,6 +2412,8 @@ infopath: //tr[@id='row2121']/td[4]/a[1]
 authorpath: //tr[@id='row2121']/td[2]
 authors: Martha Schwarz
 title: Re-visiting the Cooperative Principle: Accounting for implicatures in non-cooperative conversation
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Cooperative Principle, Implicatures, Hearer understanding
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Brandeis University
 
@@ -1999,6 +2423,8 @@ infopath: //tr[@id='row2131']/td[4]/a[1]
 authorpath: //tr[@id='row2131']/td[2]
 authors: Amir Anvari
 title: Bridging as Abstract Possession
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Bridging, Possessives, Definiteness, Accommodation, Cross-reference
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Carleton University
 
@@ -2008,6 +2434,8 @@ infopath: //tr[@id='row2141']/td[4]/a[1]
 authorpath: //tr[@id='row2141']/td[2]
 authors: David-étienne Bouchard
 title: Conjunction and quantification in subjective contexts
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Predicates of personal taste, Presuppositions, Opinion verbs, Conjunction
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Ottawa
 
@@ -2017,6 +2445,8 @@ infopath: //tr[@id='row2151']/td[4]/a[1]
 authorpath: //tr[@id='row2151']/td[2]
 authors: Zheng Shen
 title: One Account for Two Generalizations on the Third Reading of Best
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: superlative, relative reading with NP internal focus, syntax-semantics interface
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Connecticut
 
@@ -2026,6 +2456,8 @@ infopath: //tr[@id='row2161']/td[4]/a[1]
 authorpath: //tr[@id='row2161']/td[2]
 authors: Luka Crnic
 title: Scope Fixing, Scope Economy and Focus Movement
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus movement, scope economy, scope fixing, alternative semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: The Hebrew University of Jerusalem
 
@@ -2035,6 +2467,8 @@ infopath: //tr[@id='row2171']/td[4]/a[1]
 authorpath: //tr[@id='row2171']/td[2]
 authors: Alexandra Simonenko
 title: Domain restriction takes place at the D level: Evidence from Swedish
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: domain restriction in definites, definite articles, article-omission, Swedish, context-sensitive modifiers
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: McGill University
 
@@ -2044,6 +2478,8 @@ infopath: //tr[@id='row2181']/td[4]/a[1]
 authorpath: //tr[@id='row2181']/td[2]
 authors: Nadav Sabar
 title: 'Any' Is No Particular Thing
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Polarity Sensitive, Free Choice, Quantification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CUNY Graduate Center
 
@@ -2053,6 +2489,8 @@ infopath: //tr[@id='row2191']/td[4]/a[1]
 authorpath: //tr[@id='row2191']/td[2]
 authors: Keir Moulton,Nino Grilllo
 title: Composing Pseudo-Relatives
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: relatives, reconstruction, complements, small clauses, Italian, direct/indirect perception
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Simon Fraser University,UCL
@@ -2063,6 +2501,8 @@ infopath: //tr[@id='row2201']/td[4]/a[1]
 authorpath: //tr[@id='row2201']/td[2]
 authors: Cory Nichols
 title: Strict Conditional Accounts of Counterfactuals
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: strict conditionals, counterfactuals, sobel sequences
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Princeton University
 
@@ -2072,6 +2512,8 @@ infopath: //tr[@id='row2211']/td[4]/a[1]
 authorpath: //tr[@id='row2211']/td[2]
 authors: Miriam Nussbaum
 title: Subset Comparatives as Comparative Quantifiers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: subset comparatives, comparative quantifiers, comparatives
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: MIT
 
@@ -2081,6 +2523,8 @@ infopath: //tr[@id='row2221']/td[4]/a[1]
 authorpath: //tr[@id='row2221']/td[2]
 authors: Cheng-Yu Edwin Tsai
 title: Focus, alternatives, and the semantics of wh-conditionals in Mandarin
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: wh-conditionals, focus, alternatives, Mandarin (Chinese)
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Harvard University
 
@@ -2090,6 +2534,8 @@ infopath: //tr[@id='row2231']/td[4]/a[1]
 authorpath: //tr[@id='row2231']/td[2]
 authors: Murat Yasavul,Scott Martin
 title: A dynamic analysis of negation in K'iche'
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus, negation, dynamic semantics, Mayan
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: The Ohio State University,Nuance Communications
@@ -2100,6 +2546,8 @@ infopath: //tr[@id='row2241']/td[4]/a[1]
 authorpath: //tr[@id='row2241']/td[2]
 authors: Elizabeth Coppock,David Beaver
 title: A Superlative Argument for a Minimal Theory of Definiteness
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Superlatives, Definiteness, Type shifting, Existence presupposition, Uniqueness presupposition
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: University of Gothenburg,The University of Texas at Austin
@@ -2110,6 +2558,8 @@ infopath: //tr[@id='row2251']/td[4]/a[1]
 authorpath: //tr[@id='row2251']/td[2]
 authors: Roger Levy,Leon Bergen,Noah Goodman
 title: Roses and flowers: an informativeness implicature in probabilistic pragmatics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Pragmatics, Bayesian models, Probabilistic models, Rational speech-act theory, Corpus data, Conversational Implicature
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -2121,6 +2571,8 @@ infopath: //tr[@id='row2261']/td[4]/a[1]
 authorpath: //tr[@id='row2261']/td[2]
 authors: Stephanie Solt
 title: An Alternative Account of Imprecision
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Imprecision, Granularity, Comparison
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: ZAS
 
@@ -2130,6 +2582,8 @@ infopath: //tr[@id='row2271']/td[4]/a[1]
 authorpath: //tr[@id='row2271']/td[2]
 authors: Rahul Balusu
 title: Probing the denotation of Property Concepts using Telugu PC constructions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Property Concepts, Comparison, Adjectives, Dravidian, Telugu
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: EFLU
 
@@ -2139,6 +2593,8 @@ infopath: //tr[@id='row2281']/td[4]/a[1]
 authorpath: //tr[@id='row2281']/td[2]
 authors: Friederike Moltmann
 title: On the Varieties of Quotation and their Semantics
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: quotation, events, act-based semantics, pronouns
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: IHPST
 
@@ -2148,6 +2604,8 @@ infopath: //tr[@id='row2291']/td[4]/a[1]
 authorpath: //tr[@id='row2291']/td[2]
 authors: Sumiyo Nishiguchi
 title: Fake Past and Awareness
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: remember, forget, reference time, knowledge
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Tokyo University of Science
 
@@ -2157,6 +2615,8 @@ infopath: //tr[@id='row2301']/td[4]/a[1]
 authorpath: //tr[@id='row2301']/td[2]
 authors: Natalia Korotkova
 title: Embedding evidentials across languages
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: evidentials, embedded speech acts, cross-linguistic variation
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UCLA Linguistics Department
 
@@ -2166,6 +2626,8 @@ infopath: //tr[@id='row2311']/td[4]/a[1]
 authorpath: //tr[@id='row2311']/td[2]
 authors: Allyson Ettinger
 title: Modulation of NPI licensing by stress: A revisiting of Linebarger 1987
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: negative polarity items, Immediate Scope Constraint, stress, information structure
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Maryland
 
@@ -2175,6 +2637,8 @@ infopath: //tr[@id='row2321']/td[4]/a[1]
 authorpath: //tr[@id='row2321']/td[2]
 authors: Mandy Simons,David Beaver,Judith Tonhauser,Craige Roberts
 title: Changing attitudes: Decoupling projectivity from factivity
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: projection, information structure, focus marking, context, (semi-)factives, soft triggers
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -2187,6 +2651,8 @@ infopath: //tr[@id='row2331']/td[4]/a[1]
 authorpath: //tr[@id='row2331']/td[2]
 authors: Meredith Landman,Rodrigo Ranero
 title: The Syntax and Semantics of Kuria /ne-/
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus, Bantu, Kuria
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 insts: Pomona College,Pomona College
@@ -2197,6 +2663,8 @@ infopath: //tr[@id='row2341']/td[4]/a[1]
 authorpath: //tr[@id='row2341']/td[2]
 authors: Sara Sanchez-Alonso,Ashwini Deo,Maria Pinango
 title: The Modal Underpinnings of the Ser-Estar Distinction
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: ser/estar distinction, modals, Spanish
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[4]/td[5]
 instpath: //div[@class='ct_tbl'][2]//tr[5]/td[5]
@@ -2208,6 +2676,8 @@ infopath: //tr[@id='row2351']/td[4]/a[1]
 authorpath: //tr[@id='row2351']/td[2]
 authors: Jeremy Kuhn
 title: `All' quantifies over covers
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: collective predicates, all, mereology, stratified reference
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: New York University
 
@@ -2217,6 +2687,8 @@ infopath: //tr[@id='row2361']/td[4]/a[1]
 authorpath: //tr[@id='row2361']/td[2]
 authors: Scott Martin
 title: There Is No In Between
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: anaphora, presupposition, projection, accommodation, resolution, satisfaction, dynamic semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Nuance Communications
 
@@ -2226,6 +2698,8 @@ infopath: //tr[@id='row2371']/td[4]/a[1]
 authorpath: //tr[@id='row2371']/td[2]
 authors: Amy Rose Deal
 title: Mass and count in Nez Perce
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: mass nouns, semantic variation, semantic universals, cross-linguistic semantics
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UC Santa Cruz
 
@@ -2235,6 +2709,8 @@ infopath: //tr[@id='row2381']/td[4]/a[1]
 authorpath: //tr[@id='row2381']/td[2]
 authors: Sam Alxatib
 title: van Benthem’s problem, exhaustification, and distributivity
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: negative antonyms, van Benthems problem, exhaustification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: CUNY GC
 
@@ -2244,6 +2720,8 @@ infopath: //tr[@id='row2391']/td[4]/a[1]
 authorpath: //tr[@id='row2391']/td[2]
 authors: Peter Baumann
 title: Local scalar implicatures: Evidence from conjunctions
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: conjunctions, implicatures, semantic vs. pragmatic theories of scalar implicatures, disjunctions, Hurford's constraint
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: Northwestern University
 
@@ -2253,6 +2731,8 @@ infopath: //tr[@id='row2401']/td[4]/a[1]
 authorpath: //tr[@id='row2401']/td[2]
 authors: Rebekah Baglini
 title: From states to degrees in semantic ontology
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: gradability, degrees, stativity, Wolof, ontology
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: UChicago
 
@@ -2262,6 +2742,8 @@ infopath: //tr[@id='row2411']/td[4]/a[1]
 authorpath: //tr[@id='row2411']/td[2]
 authors: Linmin Zhang
 title: The single use and the double use of Mandarin Chinese ye
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: same, distributivity, Chinese
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: New York University
 
@@ -2271,6 +2753,8 @@ infopath: //tr[@id='row2421']/td[4]/a[1]
 authorpath: //tr[@id='row2421']/td[2]
 authors: Orest Xherija
 title: Nobody and Anybody: A cross linguistic study of negative polarity items in Albanian and Modern Greek
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Albanian, Modern Greek, negative polarity items, free choice items, non-veridicality
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -2280,6 +2764,8 @@ infopath: //tr[@id='row2431']/td[4]/a[1]
 authorpath: //tr[@id='row2431']/td[2]
 authors: Natalia Pavlou
 title: Beyond the Semantics of Focus Structures: The Gradience of Exhaustivity
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: focus, exhaustivity, exclusive
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: University of Chicago
 
@@ -2289,6 +2775,8 @@ infopath: //tr[@id='row2441']/td[4]/a[1]
 authorpath: //tr[@id='row2441']/td[2]
 authors: Fabian Schlotterbeck
 title: Natural language quantifiers and the psychophysics of number comparison
+keywordpath: //div[@class='ct_tbl'][1]//tr[contains(td, 'keywords')]/td[2]/div
+keywords: Quantifiers, Psychophysics, Verification
 instpath: //div[@class='ct_tbl'][2]//tr[3]/td[5]
 insts: SFB 833, Tübingen University
 

@@ -10,7 +10,8 @@ name = sys.argv[1]
 word = sys.argv[2]
 
 log = codecs.open('log', 'w', encoding='utf-8')
-subs = codecs.open('subs.csv', 'w', encoding='utf-8')
+subs = codecs.open('subs2.csv', 'w', encoding='utf-8')
+keys = codecs.open('keys.csv', 'w', encoding='utf-8')
 
 baseurl = 'https://www.easychair.org/account/signin.cgi?conf=salt24'
 submissionsurl = ('https://www.easychair.org/conferences/'
@@ -26,6 +27,7 @@ driver.find_element_by_name("Sign in").click()
 driver.get(submissionsurl)
 
 submissions = []
+keywords = []
 
 try:
     for i in [x for x in range(3, 250) if x != 39 and x != 185 and x != 232]:
@@ -74,6 +76,14 @@ try:
         
         infolink = driver.find_element_by_xpath(infopath)
         infolink.click()
+
+        keywordpath = ("//div[@class='ct_tbl'][1]//"
+                       "tr[contains(td, 'keywords')]/td[2]/div")
+        log.write("keywordpath: " + keywordpath + "\n")
+        ks = [x.text for x in driver.find_elements_by_xpath(keywordpath)]
+        log.write(u"keywords: " + u", ".join(ks) + "\n")
+        keywords.append(ks)
+
         actualinsts = []
         for authindex in range(len(actualauthors)):
             instrow = str(authindex + 3)
@@ -103,3 +113,5 @@ finally:
         )
     )
     subs.close()
+    keys.write(u'\n'.join([u', '.join(x) for x in keywords]))
+    keys.close()

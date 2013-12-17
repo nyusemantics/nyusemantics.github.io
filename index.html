@@ -11,6 +11,29 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+
+    <link rel='stylesheet' type='text/css' href='fullcalendar-1.6.4/fullcalendar/fullcalendar.css' />
+    <script type='text/javascript' src='fullcalendar-1.6.4/lib/jquery.min.js'></script>
+    <script type='text/javascript' src='fullcalendar-1.6.4/fullcalendar/fullcalendar.min.js'></script>
+    <script type='text/javascript' src='fullcalendar-1.6.4/fullcalendar/gcal.js'></script>
+    <script>
+      $(document).ready(function() {
+        // page is now ready, initialize the calendar...
+        $('#calendar').fullCalendar({
+            // put your options and callbacks here
+            header: {
+              left: 'title',
+              center: '',
+              right: 'prev,next'
+            },
+            events:
+            'https://www.google.com/calendar/feeds/qirrdmgmmo0v777dcdri7sd6tg%40group.calendar.google.com/public/basic',
+            eventColor: '#39c',
+            timeFormat: 'h(:mm)',
+            weekMode: 'variable'
+        })
+      });
+    </script>
   </head>
 
   <body>
@@ -31,11 +54,12 @@
       period. An optional 30 minute discussion period will follow the initial
       Q&amp;A/comments, for those who wish to participate.
       </p>
-      <br><h3>Schedule at a glance</h3>
-      <iframe
-        src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=280&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qirrdmgmmo0v777dcdri7sd6tg%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FNew_York"
-        style=" border-width:0 " width="280" height="280" frameborder="0"
-        scrolling="no"></iframe>
+      <br>
+      <div id='calendar'></div>
+      <!-- <iframe -->
+      <!--   src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=280&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=qirrdmgmmo0v777dcdri7sd6tg%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FNew_York" -->
+      <!--   style=" border-width:0 " width="280" height="280" frameborder="0" -->
+      <!--   scrolling="no"></iframe> -->
       </header>
 
       <section>
@@ -50,6 +74,9 @@
         <li><p>Simon Charlow</p></li>
         <li><p>Tim Leffel</p></li>
       </ul>
+
+      <!-- <div id='calendar'></div> -->
+
       <h2><strong>Archive</strong></h2>
 
       <h3>Fall 2013</h3>

@@ -36,6 +36,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+h1.abstract {
+  text-align:right;
+}
+
 a {
   color:#39c;
   font-weight:400;

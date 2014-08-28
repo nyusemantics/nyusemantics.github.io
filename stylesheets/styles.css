@@ -192,7 +192,11 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:0px;
+  bottom:5px;
+}
+
+footer p {
+  margin:0;
 }
 
 .abstract {

@@ -5,33 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>NYU Semantics Group by nyusemantics</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel='stylesheet' type='text/css' href='fullcalendar-1.6.4/fullcalendar/fullcalendar.css' />
-    <script type='text/javascript' src='fullcalendar-1.6.4/lib/jquery.min.js'></script>
-    <script type='text/javascript' src='fullcalendar-1.6.4/fullcalendar/fullcalendar.min.js'></script>
-    <script type='text/javascript' src='fullcalendar-1.6.4/fullcalendar/gcal.js'></script>
+    <link rel='stylesheet' href='fullcalendar/fullcalendar.css' />
+    <script src='fullcalendar/lib/jquery.min.js'></script>
+    <script src='fullcalendar/lib/moment.min.js'></script>
+    <script src='fullcalendar/fullcalendar.js'></script>
+    <script type='text/javascript' src='fullcalendar/gcal.js'></script>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script>
       $(document).ready(function() {
         // page is now ready, initialize the calendar...
         $('#calendar').fullCalendar({
-            // put your options and callbacks here
-            header: {
-              left: 'title',
-              center: '',
-              right: 'prev,next'
-            },
-            events:
-            'https://www.google.com/calendar/feeds/qirrdmgmmo0v777dcdri7sd6tg%40group.calendar.google.com/public/basic',
-            eventColor: '#39c',
-            timeFormat: 'h(:mm)',
-            weekMode: 'variable'
-        })
+          googleCalendarApiKey: 'AIzaSyBGq3YXhr92Vx8-p-VXAQmixHmWKLA_5Vo',
+          // put your options and callbacks here
+          header: {
+            left: 'title',
+            center: '',
+            right: 'prev,next'
+          },
+          events: {
+            googleCalendarId: 'qirrdmgmmo0v777dcdri7sd6tg@group.calendar.google.com'
+          },
+          eventColor: '#39c',
+          timeFormat: 'h(:mm)',
+          fixedWeekCount: false,
+          aspectRatio: 1,
+          eventRender: function(event, element) {
+            console.log
+            element.html(event.start.format('h:mm'));
+          }
+        });
       });
     </script>
   </head>
@@ -55,6 +63,9 @@
       </p>
       <br>
       <div id='calendar'></div>
+      <p><small>Hosted on GitHub Pages &mdash;
+        Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+      </p>
       </header>
 
       <section>
@@ -446,9 +457,6 @@
 
       </section>
       <footer>
-      <p><small>Hosted on GitHub Pages &mdash;
-        Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
-      </p>
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>

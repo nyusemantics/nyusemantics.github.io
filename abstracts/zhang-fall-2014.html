@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Zhang, NYU Semantics Group, Fall 2014</title>
+
+    <link rel="stylesheet" href="../stylesheets/styles.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div class="wrapper abstract">
+      <h1>Decomposing English 'and' and 'or'</h1>
+      <h2>Linmin Zhang, NYU</h2>
+      <h3>Abstract</h3>
+      <p class="view">
+      English and and or are traditionally analyzed as boolean operators \sqcap and \sqcup (von Stechow 1974, Gazdar 1980, Partee & Rooth 1983, Champollion 2013, 2014); in some studies, and is analyzed as a sum operator \oplus (Krifka 1990, Heycock & Zamparelli 2005).
+
+There are a few issues with these analyses. 
+
+First, how to account for A, B and C? If a silent and is assumed between A and B, one would have to rule out such ill-formed expressions as A and/or B, C and A, B, C by stipulating that and/or can be freely omitted except in its last application, where the semantic scope of the operator \sqcap/\sqcup/\oplus is marked. However, as far as the types of and/or are of the form \type{\tau, \tau\tau} and the two arguments of and/or are of the same type, such a stipulation cannot help over-generating such ill-formed expressions as [[Al and Bill] and [Cal and Jo]] smiled.
+
+Second, as Winter 2006 points out,  Simon and Garfunkel and Dylan each sang a song. is ambiguous between two readings -- a `2 songs' reading (i.e., the duo Simon and Garfunkel and the singer Dylan each sang a song) and a `3 songs' reading (i.e., each of the three sang a song), but the `2 songs' reading is missing inSimon, Garfunkel and Dylan each sang a song. This contrast suggests that in the second sentence, there is no silent and between Simon and Garfunkel.
+
+Third, another problem is how to give a unified account for and. Intuitively, John and Mary is not ambiguous itself; it would rather be the predicate (e.g., smiled vs. met) that determines whether John and Mary should be interpreted as a sum or an intersection. 
+
+Fourth, the current analyses could not account for some other interesting data, such as By definition, the first two numbers in the Fibonacci sequence are 1 and 1, or 0 and 1. (from Web search). This sentence suggests that the items connected by and could be the same, and sometimes the order between the items matters.
+
+My proposal is based on 4 existant ideas: 
+
+1. A finer-grained analysis is needed to decompose the contribution of and/or (Winter 1995, 1998; Szabolcsi 2013, 2014). 
+
+2. In the analysis of A, B and C, the syntactic structure should be nested ([[A, B] C]), but the semantic interpretation should be flat ([A, B, C]) (Winter 2006). 
+
+3. The data type `list' is used in programming languages (e.g., Haskell): `[\alpha]' stands for the type of a list composed of items of type \alpha. 
+
+4. There is a well-observed connection between the use of and/or and the quantifiers \forall /\exists. 
+
+Here I propose a decompositional analysis for and and or: 
+
+(a) silent operator \dag, which concatenates items of type \alpha into a list, 
+(b) silent operators \veebar and \barwedge, which filter a list in a deterministic way or an indeterministic way
+(b) silent operator f, which takes a sum operator or an intersective operator from the context as one of this operator's argument and folds the list back into an element of type \alpha. 
+
+The combination `f\fint . \barwedge . \dag' is spelt out as and, and the combination `f\fint. \veebar .\dag' as or. 
+      </p>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</head>

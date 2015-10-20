@@ -12,7 +12,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
   margin:0 0 20px;
 }
 
@@ -26,14 +25,15 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  color:#222;
 }
 
 h2 {
-  color:#393939;
+  color:#333;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#444;
 }
 
 h1.abstract {
@@ -41,14 +41,14 @@ h1.abstract {
 }
 
 a {
-  color:#39c;
+  color:#39C;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#444;
   margin-top:-0.6em;
   display:block;
 }

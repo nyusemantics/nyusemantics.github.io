@@ -7,7 +7,7 @@ html {
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#444;
   font-weight:300;
 }
 
@@ -131,8 +131,8 @@ header ul a {
 }
 
 strong {
-  color:#222;
-  font-weight:700;
+  color:#444;
+  font-weight:bold;
 }
 
 header ul li + li {

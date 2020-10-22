@@ -1,0 +1,70 @@
+.clearfix {
+	clear: both;
+}
+
+.formatted-gloss {
+	clear: both;
+}
+
+.gloss-error {
+	color: red;
+}
+
+.gloss-label ~ .gloss-full {
+	margin-left: 40px; /* This is the same width as the label plus segment margin */
+}
+
+/* This is the generalized css for when a title is used */
+.gloss-label ~ .gloss-full ~ .gloss-segment {
+	margin-left: 40px;
+}
+
+.gloss-segment + .gloss-segment {
+	margin-left: 0px !important;
+}
+
+.gloss-label {
+	width: 30px;
+}
+
+.gloss-full > .gloss-row1{
+	margin-right: 15px;
+}
+
+.gloss-label a {
+	text-decoration: none;
+}
+
+.gloss-merged {
+	margin-left: -25px;
+}
+
+.gloss-segment {
+	float: left;
+	margin-right: 10px;
+}
+
+
+.morpheme {
+	text-transform: lowercase;
+	font-variant: small-caps;
+	-moz-font-feature-settings: "lnum";
+  -webkit-font-feature-settings: "lnum";
+  font-feature-settings: "lnum";
+}
+
+.morpheme-fake-caps {
+	font-size: .7em;
+	text-transform: uppercase;
+}
+
+/*
+Row Classes
+*/
+.source {
+	font-weight: bold;
+}
+
+.translation {
+	font-style: italic;
+}
